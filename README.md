@@ -8,7 +8,7 @@ How to load the file :
 
 2. Copy the link: https://shorturl.at/ahsL4
 
-3. Go to the site (see step 1 if you haven't already) and click on "URL".
+3. Go to the webrcade (see step 1 if you haven't already) and click on "URL".
 
 ![image](https://github.com/Psyko38/Rom-Pack-WebRcade/assets/110417117/5706ed1d-397b-49d9-9461-d5186cb5dad1)
 
