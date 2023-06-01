@@ -19,3 +19,26 @@ How to load the file :
 5. And click on "Ok".
 
 ![image](https://github.com/Psyko38/Rom-Pack-WebRcade/assets/110417117/bc4f4706-ba2a-489d-8bc3-fc27a06e4b0e)
+
+----------------------------------------------------------------------------------------------------
+
+Some folders are missing, so follow this tutorial:
+1. go to parameter :
+
+![image](https://github.com/Psyko38/Rom-Pack-WebRcade/assets/110417117/9f16f1d7-f752-4f97-83fe-b33620ca7264)
+
+2. click 3 times on the right arrow :
+
+![image](https://github.com/Psyko38/Rom-Pack-WebRcade/assets/110417117/b1589fab-0329-40ba-ab71-c88f225969f7)
+
+3. click on "experimental app" :
+
+![image](https://github.com/Psyko38/Rom-Pack-WebRcade/assets/110417117/da064d51-93a1-47fa-b1dd-51f86ae99cf7)
+
+4. Click on Ok :
+
+![image](https://github.com/Psyko38/Rom-Pack-WebRcade/assets/110417117/961896f2-2334-4777-a799-ebadd9b50856)
+
+5. this message appears does Ok :
+
+![image](https://github.com/Psyko38/Rom-Pack-WebRcade/assets/110417117/181be335-04a9-4fe4-b176-17b14f5ca267)
