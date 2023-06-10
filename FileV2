@@ -14226,5 +14226,8 @@
   "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Welcome.jpeg?raw=true",
   "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/Welcome.png?raw=true",
   "backgroundPixelated": true,
-  "props": {}
+  "props": {
+    "lnx_boot": "https://archive.org/download/OpenEmuBIOSPack/OpenEmu%20BIOS%20Pack.zip/lynxboot.img",
+    "atari5200_rom": "https://archive.org/download/OpenEmuBIOSPack/OpenEmu%20BIOS%20Pack.zip/5200.rom"
+  }
 }
