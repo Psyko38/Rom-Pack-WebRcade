@@ -4,7 +4,7 @@
     {
       "title": "Welcome",
       "longTitle": "Welcome to Rom Pack!",
-      "description": "Here you'll find all the games you need to play!",
+      "description": "Here you'll find all the games you need to play!\n\nv1.3",
       "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Welcome.jpeg?raw=true",
       "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/Welcome.png?raw=true",
       "backgroundPixelated": true,
@@ -1678,6 +1678,379 @@
       "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Atari-7800.jpg?raw=true",
       "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/Atari-all.png?raw=true",
       "backgroundPixelated": true
+    },
+    {
+      "title": "Lynx",
+      "longTitle": "Atari Lynx",
+      "description": "Atari Lynx is a portable video game console produced by Atari and launched in 1989. It was the first portable color game console to be marketed. It featured a 3.5\" color LCD screen, a 16-bit processor and a 4096 color palette. It also featured a cartridge port for games and could accommodate up to eight players on a local network. Although the Lynx was initially sold with a dozen games, in total there were almost 80 available for the console. Despite its advanced technical performance for its time, the Lynx never managed to compete with Nintendo's Game Boy. However, it remains a cult console for many retro gamers.",
+      "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/Atari-all.png?raw=true",
+      "backgroundPixelated": true,
+      "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Atari-lynx.jpeg?raw=true",
+      "items": [
+        {
+          "title": "Lemmings",
+          "longTitle": "Lemmings (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Lemmings%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Lemmings%20(USA%2C%20Europe).png",
+          "description": "Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.\n\nYou are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/L/Lemmings%20%28NA%29.lnx"
+          },
+          "added": 1686399476705
+        },
+        {
+          "title": "California Games",
+          "longTitle": "California Games (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/California%20Games%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/California%20Games%20(USA%2C%20Europe).png",
+          "description": "California Games was the original \"Extreme Games\"   what today's generation might call \"X-Games in the sun\".  Players can select sponsors (absent in some versions) and compete in events such as skateboarding, footbag, surfing, roller skating, flying disc (frisbee) and BMX.  The surfing event is ranked by judges, which give a score to help the players improve their routine.\n\nThe Atari versions (2600 and Lynx) of the game omit the flying disc and roller skating events, while the Genesis version omits only the flying disc event.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/C/California%20Games%20%28NA%29.lnx"
+          },
+          "added": 1686399562991
+        },
+        {
+          "title": "Chip's Challenge",
+          "longTitle": "Chip's Challenge (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Chip's%20Challenge%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Chip's%20Challenge%20(USA%2C%20Europe).png",
+          "description": "Nerdy Chip desperately wants to join the \"Bit Busters\" computer club, led by Melinda the Mental Marvel.  However, before she'll let him in, he must prove his intelligence by passing the initiation test.  149 increasingly difficult levels, including a few hidden ones, await Chip in this tile-based puzzle game.  Use tools such as keys, and special shoes to bypass obstacles.  Manipulate switches to and use dirt blocks to build bridges across waterways.  Avoid enemy creatures, grab all the computer chips in the level, and hurry to the exit: On top of everything else, there's a time limit!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/C/Chip%27s%20Challenge%20%28NA%29.lnx"
+          },
+          "added": 1686399562992
+        },
+        {
+          "title": "Checkered Flag",
+          "longTitle": "Checkered Flag (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Checkered%20Flag%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Checkered%20Flag%20(USA%2C%20Europe).png",
+          "description": "Checkered Flag for the Jaguar is a 3D F1-style racing game. The racing game staples are here: single race, practice, and tournament. You can choose to set up a variety of options for each race, also.  You can choose various weather conditions.  Or, you can set up your car to change it's handling characteristics.  There are 10 different tracks on which to race, each with a different theme.  Some take place on sunny beaches, others take place in the arctic.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/C/Checkered%20Flag%20%28NA%29.lnx"
+          },
+          "added": 1686399615216
+        },
+        {
+          "title": "Toki",
+          "longTitle": "Toki (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Toki%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Toki%20(USA%2C%20Europe).png",
+          "description": "The hero of the game is a young jungle-man named Toki. One day the evil wizard Dr. Stark kidnaps his girlfriend Wanda. When Toki tries to save her, he is turned into a monkey! Now Toki has to find Dr. Stark in his palace, to rescue Wanda, and to become a human being again!\n\nIt is a platform game with a lot of various levels: jungle, underwater, volcanic caves, on the ice... Toki's only weapons are spitting on the enemies or jumping on them and crashing them. There are many possibilities to upgrade his spitting \"weapon\";  for example, if he finds an upgrade, he can spit fireballs. \n\nThis game is ported from an older arcade version.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/T/Toki%20%28NA%29.lnx"
+          },
+          "added": 1686399668575
+        },
+        {
+          "title": "Rampart",
+          "longTitle": "Rampart (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Rampart%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Rampart%20(USA%2C%20Europe).png",
+          "description": "Tetris meets shoot-'em-up, Rampart was originally a one or two-player arcade game combining strategy and artillery action. Build your castle from Tetris-style pieces, place your cannons, bombard the enemy, try to repair, do it all over again. Later arcade revisions incorporated 3-player,  and the PC conversion does as well, making it a faithful, entertaining classic for multiple players on the same PC.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/Rampart%20%28NA%29.lnx"
+          },
+          "added": 1686399789477
+        },
+        {
+          "title": "Rygar",
+          "longTitle": "Rygar (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Rygar%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Rygar%20(USA%2C%20Europe).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/Rygar%20-%20Legendary%20Warrior%20%28NA%29.lnx"
+          },
+          "added": 1686399789477
+        },
+        {
+          "title": "Rampage",
+          "longTitle": "Rampage (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Rampage%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Rampage%20(USA%2C%20Europe).png",
+          "description": "George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.\n\nSmashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/Rampage%20%28NA%29.lnx"
+          },
+          "added": 1686399789477
+        },
+        {
+          "title": "RoadBlasters",
+          "longTitle": "RoadBlasters (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/RoadBlasters%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/RoadBlasters%20(USA%2C%20Europe).png",
+          "description": "RoadBlasters is a futuristic racing action game. The goal is to reach the finish line in one piece throughout each of 50 levels. Numerous enemies are out on the road to try and stop you, including armored cars, motorcycles, canons on the side of the road, landmines, and more. \n\nYour vehicle is equipped with a machine gun to help you out, and occasionally a weapons plane will fly in and drop additional power ups that can be collected. Some of these are the U.Z. canon, cruise missiles, and speed boost. Your car has a very limited amount of fuel, however more can be picked up along the way by crossing the halfway point of a level, or by collecting the red and green fuel spheres that appear in the road or after destroying certain enemies.  On many levels collecting fuel is critical otherwise you won't be able to reach the finish line.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/RoadBlasters%20%28NA%29.lnx"
+          },
+          "added": 1686399789477
+        },
+        {
+          "title": "Ms. Pac-Man",
+          "longTitle": "Ms. Pac-Man (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Ms.%20Pac-Man%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Ms.%20Pac-Man%20(USA%2C%20Europe).png",
+          "description": "In 1982, a sequel to the  incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man.  This sequel continued on the \"eat the dots/avoid the ghosts\" gameplay of the original game, but added new features to keep the title fresh.\n\nLike her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit  while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics.  One touch from any of these ghosts means a loss of life for Ms. Pac-Man.\n\nMs. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points (ranging from 200, 400, 800 and 1600, progressively). The Energizer power only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.\n\nSurvive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of \"Junior\".",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/M/Ms.%20Pac-Man%20%28NA%29.lnx"
+          },
+          "added": 1686399840314
+        },
+        {
+          "title": "Shadow of the Beast",
+          "longTitle": "Shadow of the Beast (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Shadow%20of%20the%20Beast%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Shadow%20of%20the%20Beast%20(USA%2C%20Europe).png",
+          "description": "While very young, Aarbron was kidnapped and enslaved by the Priests of the Beast Lord. He grew up on drugs made to destroy his own will and turn him into the Beast Messenger, a powerful creature serving Maletoth, The Beast Lord himself. He did his job, until one day he noticed a man about to be sacrificed in a ritual, his face triggering ancient memories... and as the sacrificial knife descended into the man's body, Aarbron recognizes the face. Of his father.\nAs his father dies in the altar, memories of his childhood and tormented past at the hands of the Beast Lord emerged, and as feelings of hate over his captors took over him, he swore revenge and fled the temple, knowing the road to avenge his father and redemption would be hard.\n\nShadow of the Beast, one of Psygnosis most popular titles during the 16-bit computer era is a side-scrolling platformer best known for the use of parallax scrolling along lush graphics, a musical score  by David Whittaker, a iconic cover by Roger Dean and what many consider to be unforgiving gameplay, balancing between the \"very challenging\" and the \"impossible\". The player has to navigate through several areas filled with enemies and traps, collecting keys and activating triggers than open new areas or give Aarbron the means to overcome a sub-boss. The number of moves the player has at disposal is limited: duck, jump and only two attacks: punch and a flying kick. While most enemies die with just one hit, the player must time each attack accurately. However, there are also traps of objects that cannot be destroyed, and these require the player to jump, duck or move according the sequence. The player has only one life with 12 hit points that can be replenished by collecting some objects hidden in the level (like an off-route location or a under a megalith), which also contributes to the difficulty level.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/S/Shadow%20of%20the%20Beast%20%28NA%29.lnx"
+          },
+          "added": 1686399925196
+        },
+        {
+          "title": "Scrapyard Dog",
+          "longTitle": "Scrapyard Dog (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Scrapyard%20Dog%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Scrapyard%20Dog%20(USA%2C%20Europe).png",
+          "description": "In Scrapyard Dog you play the role of Louie, the junkyard guy, who's companion Scraps has been dognapped by the dastardly Mr. Big. Louie has bombs and cans at his disposal to use against the enemies, which include gangsters, rats, and mice. He can also use shields to protect himself on route to the sixteen checkpoints in the game. Louie must reach each checkpoint in a certain amount of time in order to save Scraps.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/S/Scrapyard%20Dog%20%28NA%29.lnx"
+          },
+          "added": 1686399925196
+        },
+        {
+          "title": "Super Skweek",
+          "longTitle": "Super Skweek (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Super%20Skweek%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Super%20Skweek%20(USA%2C%20Europe).png",
+          "description": "Super Skweek is a game inspired by the wide success of Chip's Challenge, and share some elements of that puzzler while combining other elements from games such as Pengo.\n\nIn Super Skweek, you play the title character who must walk around and either paint all the tiles of the game board pink, complete a specific mission, or both.  Some tiles react in various ways when you walk on them, like exploding.  \n\nUnlike Chip's Challenge, the game plays in realtime and you can pick up and use weapons to keep away certain monsters as you paint the tiles.  There is also a shop you can enter to purchase items.  Finally, levels have a time limit for completion.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/S/Super%20Skweek%20%28NA%29.lnx"
+          },
+          "added": 1686399925197
+        },
+        {
+          "title": "S.T.U.N. Runner",
+          "longTitle": "S.T.U.N. Runner (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/S.T.U.N.%20Runner%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/S.T.U.N.%20Runner%20(USA%2C%20Europe).png",
+          "description": "Based on the 1989 Atari Games (not to be confused with Atari Corporation, producers of the Lynx) coin-op by Ed Rotberg.  It's 2492 and you must pilot your Sub-Terranean Underground Network (S.T.U.N.) craft at speeds over 900 miles per hour through a series of courses to retain your title as S.T.U.N. Runner, completing each course before time runs out.\n\nThere are also enemies on each course, such as cycles, indestructible armored drones, and flying bird-like craft.  Shoot or avoid them.  If you hit them, you lose one of your shields (your craft has six total) and are slowed down temporarily.  The more shields you have at the finish line, the more bonus points you get.  Getting hit with no shields does not kill you, however.  There are no lives in this game.  The only way to lose is to fail to cross the finish line.\n\nAlong the way you'll encounter Boost Pads that temporarily speed you up to incredible speeds and make you indestructible.  By running over enough green stars on each course, you can also earn Shockwaves, which destroy all enemies in your path.\n\nNote that there is no accelerator in this game.  Your craft always goes full speed, unless you hit something.  Then you will slow down, but quickly accelerate back to full speed.  Other than that, you cannot slow down and the only way to speed up is to run over a Boost Pad.  Your only controls are steering left and right and aiming the gun on top of your craft up and down.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/S/S.T.U.N.%20Runner%20%28NA%29.lnx"
+          },
+          "added": 1686399925197
+        },
+        {
+          "title": "Klax",
+          "longTitle": "Klax (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Klax%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Klax%20(USA%2C%20Europe).png",
+          "description": "An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number of colors as the game progresses.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/K/Klax%20%28NA%29.lnx"
+          },
+          "added": 1686400042608
+        },
+        {
+          "title": "Ninja Gaiden",
+          "longTitle": "Ninja Gaiden (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Ninja%20Gaiden%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Ninja%20Gaiden%20(USA%2C%20Europe).png",
+          "description": "Ninja Gaiden begins with a cinematic animation in which 2 ninjas duel to the death; one goes down. It is revealed that the doomed ninja is the father of Ryu Hayabusa. When Ryu learns of this, he embarks on a quest to find out who killed his father and why. This quest takes him to America to find an archaeologist with whom Ryu's father was working. From there, Ryu becomes embroiled in an evil, supernatural conspiracy involving a villain named Jaquio who has plans to use an ancient castle and some relics to unleash a terrifying evil upon the world.\n\nNinja Gaiden is a side scrolling game where Ryu the ninja can run, jump, and slash with his ninja sword. He can also attach to any vertical surface. Powerups are littered throughout the landscape that allow Ryu to toss fireballs and ninja stars, and perform other feats.\n\nRyu will battle through urban city settings, forests, jungles, snow covered castles, underground railroads, and ancient castles. A major feature in Ninja Gaiden are the cinematic scenes -- sometimes fullscreen -- through which the storyline unfolds.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/N/Ninja%20Gaiden%20%28NA%29.lnx"
+          },
+          "added": 1686400042608
+        },
+        {
+          "title": "Ninja Gaiden III - The Ancient Ship of Doom",
+          "longTitle": "Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Ninja%20Gaiden%20III%20-%20The%20Ancient%20Ship%20of%20Doom%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Ninja%20Gaiden%20III%20-%20The%20Ancient%20Ship%20of%20Doom%20(USA%2C%20Europe).png",
+          "description": "This is the third entry in the series of fast-paced ninja action games, and is the last game in the series to be released on the Nintendo Entertainment System.\n\nSome time has passed since the defeat of Ashtar and the resurrected Jaquio, and Irene Lew has received a new mission to complete. She is to observe a strange factory that has been constructed recently for an unknown purpose, and investigate it. She proceeds to reconnoiter it, but is intercepted and apparently assassinated by her friend Ryu Hayabusa...except it isn't Ryu. It is an imposter. The real Ryu, angered over her death, and the subsequent false accusation that he murdered her, continues her mission and proceeds to investigate the factory.\n\nAs stated, this was the last game in the regular series produced for the NES. It had many features the previous games in the series did not, such as a power up to extend the length of your sword, a new vertical \"wave\" attack and vertically-scrolling levels. The US version of the game is reputed to be the hardest in the series, due to the extra damage incurred when hit, slightly shorter regular sword length, limited continues and more enemies.\n\nThe Lynx port is the second Ninja Gaiden game on the platform, the first being a port from the Arcade Version. This port is identical to the NES game, but the in-game picture is compressed for the smaller screen of the Lynx.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/N/Ninja%20Gaiden%20III%20-%20The%20Ancient%20Ship%20of%20Doom%20%28NA%29.lnx"
+          },
+          "added": 1686400042608
+        },
+        {
+          "title": "Gauntlet - The Third Encounter",
+          "longTitle": "Gauntlet - The Third Encounter (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
+          "description": "Generations ago an enchanted Star Gen crashed to Earth at the base of an ancient castle. Loathsome creatures crept from the castle and carried the Gem into the depths of the fortress.\n\nAll attempts to retrieve the Star Gem failed. The adventurers were destroyed.\n\nThe creatures in the castle gain magical strength from the Star Gem. Unless the Gem is taken from them, the evil ones will soon have the strength to venture forth and destroy mankind!\n\nYou and your friends must take up the quest to rescue the Star Gem... and your world!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/G/Gauntlet%20-%20The%20Third%20Encounter%20%28NA%29.lnx"
+          },
+          "added": 1686400085079
+        },
+        {
+          "title": "Blue Lightning",
+          "longTitle": "Blue Lightning (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Blue%20Lightning%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Blue%20Lightning%20(USA%2C%20Europe).png",
+          "description": "The insanely evil General Drako is spreading his own special blend of spite and chaos around the globe.  You are a top fighter pilot for the UN's Blue Lightning squad.  You have to travel from continent to continent, and end Drako's plans at each stop using your awesome flight skills.\n\nBlue Lightning is a 3D flight game featuring 7 real-life fighter jets.  There are several types of missions, including dogfights, ground targets, and escorts. Your arsenal consists of various cannons, missiles, and special bombs.  The game can be played either from a behind-the-plane perspective, or an in-cockpit perspective.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/B/Blue%20Lightning%20%28NA%29.lnx"
+          },
+          "added": 1686400158714
+        },
+        {
+          "title": "Hydra",
+          "longTitle": "Hydra (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Hydra%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Hydra%20(USA%2C%20Europe).png",
+          "description": "If being the best speedboat racer in the world were all there was to life, you'd live on easy street.  But when the government of Hydra has asked for your help in defeating Hydra's enemies by couriering parts to a secret weapon, and those enemies know you're coming... well then, life gets interesting.\n\nRace down narrow swamp lanes to deliver parts of a secret weapon to bases at the finish of each section.  Enemies will be shooting at you, but you can shoot back with Uzi Cannons and Nukes.  Collect crystals along the way to boost your speed or shields.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/H/Hydra%20%28NA%29.lnx"
+          },
+          "added": 1686400218677
+        },
+        {
+          "title": "Viking Child",
+          "longTitle": "Viking Child (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Viking%20Child%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Viking%20Child%20(USA%2C%20Europe).png",
+          "description": "Cartoony side-scroller where you take the role of, as the title states, a viking child, in his quest to free his friends and family, held by the evil god Loki inside the Great Halls of Valhalla.\n\nFight your way through 16 levels with diverse scenarios, including medieval castles and mountains. Spread throughout the levels are shops in which you can buy potions and other magical items to help you along the way. Before you finally face the Dark Lord Loki, you must also defeat the 8 Apprentices of Darkness.\n\nThe game features colorful graphics and 22 different tunes to make the whole trip a bit more pleasant.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/V/Viking%20Child%20%28NA%29.lnx"
+          },
+          "added": 1686400245647
+        },
+        {
+          "title": "Gauntlet - The Third Encounter",
+          "longTitle": "Gauntlet - The Third Encounter (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
+          "description": "Generations ago an enchanted Star Gen crashed to Earth at the base of an ancient castle. Loathsome creatures crept from the castle and carried the Gem into the depths of the fortress.\n\nAll attempts to retrieve the Star Gem failed. The adventurers were destroyed.\n\nThe creatures in the castle gain magical strength from the Star Gem. Unless the Gem is taken from them, the evil ones will soon have the strength to venture forth and destroy mankind!\n\nYou and your friends must take up the quest to rescue the Star Gem... and your world!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/G/Gauntlet%20-%20The%20Third%20Encounter%20%28NA%29.lnx"
+          },
+          "added": 1686400355516
+        },
+        {
+          "title": "Awesome Golf",
+          "longTitle": "Awesome Golf (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Awesome%20Golf%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Awesome%20Golf%20(USA%2C%20Europe).png",
+          "description": "Awesome Golf is as the name suggests, a golf simulator. There are 3 courses to play one in the U.K one in the U.S and the third one in Japan. The gameplay involves you lining up your shot via an overhead view which when set up switches to a third person view. Whilst in this view you need to swing the club and stop it at the desired power and then stop it on the correct symbol to get the perfect hit. If you don't get it right you will either miss the ball or hit the earth. There are 14 clubs at your disposal, 8 irons, 3 woods 2 wedges and a putter which are selected by moving the hand cursor over you Golf bag and selecting the desired club.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/A/Awesome%20Golf%20%28NA%29.lnx"
+          },
+          "added": 1686400388846
+        },
+        {
+          "title": "QIX",
+          "longTitle": "QIX (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/QIX%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/QIX%20(USA%2C%20Europe).png",
+          "description": "In this game, you guide a marker which must draw rectangles and other weird objects in order to claim your territory, and you can either draw these rectangles fast or slow. Drawing the rectangles using the \"slow\" method awards you the most points. Once a rectangle has been made, it will be colored in to show that you have claimed your territory. While drawing the rectangles, you need to watch out for Qix (pronounced \"kicks\"), a series of colored lines that crawl the screen. In addition to Qix, you also need to avoid the Sparks who travel around the border, as well as any lines that you have made, as well as The Fuse, who travels along the line that you are drawing. Once you have claimed enough territory, you proceed to the next level.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/Q/Qix%20%28NA%29.lnx"
+          },
+          "added": 1686400432327
+        },
+        {
+          "title": "Dracula the Undead",
+          "longTitle": "Dracula the Undead (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Dracula%20the%20Undead%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Dracula%20the%20Undead%20(USA%2C%20Europe).png",
+          "description": "In this game you play the role of Jonathan Harker, an Estate Agent who has visited Dracula's castle to conduct some business. The gameplay is a point and click style adventure except it has been tweaked to accommodate the Lynx controls. To interact with an object you move Jonathan next to the object with the D-Pad and then its name will pop up in the interaction bar. You then need to select an action such as Open, Close examine e.t.c.. The main idea of the game is to explore Dracula's castle while he is away and try to gather information that will prove he is a very serious threat to the mortal world. there are also other character in the game to interact with and Bram Stoker (the writer of Dracula which this game is based on) is in the game in digital form to narrate the story.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/D/Dracula%20-%20The%20Undead%20%28NA%29.lnx"
+          },
+          "added": 1686400493498
+        },
+        {
+          "title": "Xybots",
+          "longTitle": "Xybots (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Xybots%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Xybots%20(USA%2C%20Europe).png",
+          "description": "Xybots is either an unusually simple computer game or an unusually complex coin-op shoot 'em up, depending on your point of view. With either one or two players, you must move through a series of Gauntlet-style underground mazes, killing the bad guys and collecting health and other bonuses from flying saucers (underground? SLIGHT logic gap there, methinks).It's designed to be played co-operatively, although bullets from one player can harm the other.\n\nThe Xybots are out to stop you, of course, and many have advanced attack patterns as well as bullets to fire at you. Being able to view round corners is useful, allowing you to plan a strategy - often it's good to send one player forward and let the other play the waiting game, as in Gauntlet.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/X/Xybots%20%28NA%29.lnx"
+          },
+          "added": 1686400510352
+        },
+        {
+          "title": "Robo-Squash",
+          "longTitle": "Robo-Squash (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Robo-Squash%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Robo-Squash%20(USA%2C%20Europe).png",
+          "description": "Set in the 31st Century, this game begins when the President of the World has died at age 281 after being in power for 200 years. The United World Federation is in chaos. After nearly four centuries of the World Party being in control, the International Party is inclined to take over. Rumors regarding the President's death not being accidental are unconfirmed, but the World Party is still going on the defensive. Conventional warfare has been relegated to the obsolete and uncivilized past so the two parties are to settle the dispute the new, modern way, Robo-Squash.Robo-Squash is a game in which the player must catch as many balls in rows or columns as possible to win. An alternative way to win is to be the first player to hit the mechanical spider. As a round continues longer and longer, the balls will increase in speed, making the round progressively harder. Points can be collected by hitting bricks, special items, and the spider. When one of the players loses three balls or hits the mechanical spider, the round is over.If the player wins, the World Party will remain in power. If the player loses the International Party will win and divide the world into separate countries surely resulting in the same petty fighting that almost destroyed civilization in the 21st Century.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/Robo-Squash%20%28NA%29.lnx"
+          },
+          "added": 1686400552273
+        },
+        {
+          "title": "Warbirds",
+          "longTitle": "Warbirds (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Warbirds%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Warbirds%20(USA%2C%20Europe).png",
+          "description": "A combat flight action/simulation with colorful graphics and pretty straight-forward gameplay.\n\nStep inside the cockpit of a World War I plane, when there were no sophisticated weaponry, and try to gun down the enemy. Simple as that.\n\nThe graphics were faux-3D, as the planes were 2D sprites (natural, considering the release date), but the sky seemed very vast and you could fly around freely.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/W/Warbirds%20%28NA%29.lnx"
+          },
+          "added": 1686400572938
+        }
+      ]
     },
     {
       "title": "SMS",
@@ -13849,7 +14222,7 @@
     }
   ],
   "longTitle": "Play with approximately 1000 retro games!",
-  "description": "With around 1000 retro games to choose from, you're sure to find what you're looking for.\n\nContents of this pack:\nAtari: 3  console\nSega: 3  console\nNintendo: 6 console\n= 12  console",
+  "description": "With over 1,000 retro games to choose from, you're sure to find something you love !\n\nContents of this pack:\nAtari: 4  console\nSega: 3  console\nNintendo: 6 console\n= 13  console",
   "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Welcome.jpeg?raw=true",
   "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/Welcome.png?raw=true",
   "backgroundPixelated": true,
