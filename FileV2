@@ -4,7 +4,7 @@
     {
       "title": "Welcome",
       "longTitle": "Welcome to Rom Pack!",
-      "description": "Here you'll find all the games you need to play!\n\nv1.3",
+      "description": "Here you'll find all the games you need to play!\n\nv1.4",
       "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Welcome.jpeg?raw=true",
       "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/Welcome.png?raw=true",
       "backgroundPixelated": true,
@@ -1688,17 +1688,30 @@
       "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Atari-lynx.jpeg?raw=true",
       "items": [
         {
-          "title": "Lemmings",
-          "longTitle": "Lemmings (USA, Europe)",
+          "title": "Awesome Golf",
+          "longTitle": "Awesome Golf (USA, Europe)",
           "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Lemmings%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Lemmings%20(USA%2C%20Europe).png",
-          "description": "Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.\n\nYou are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Awesome%20Golf%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Awesome%20Golf%20(USA%2C%20Europe).png",
+          "description": "Awesome Golf is as the name suggests, a golf simulator. There are 3 courses to play one in the U.K one in the U.S and the third one in Japan. The gameplay involves you lining up your shot via an overhead view which when set up switches to a third person view. Whilst in this view you need to swing the club and stop it at the desired power and then stop it on the correct symbol to get the perfect hit. If you don't get it right you will either miss the ball or hit the earth. There are 14 clubs at your disposal, 8 irons, 3 woods 2 wedges and a putter which are selected by moving the hand cursor over you Golf bag and selecting the desired club.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/L/Lemmings%20%28NA%29.lnx"
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/A/Awesome%20Golf%20%28NA%29.lnx"
           },
-          "added": 1686399476705
+          "added": 1686400388846
+        },
+        {
+          "title": "Blue Lightning",
+          "longTitle": "Blue Lightning (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Blue%20Lightning%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Blue%20Lightning%20(USA%2C%20Europe).png",
+          "description": "The insanely evil General Drako is spreading his own special blend of spite and chaos around the globe.  You are a top fighter pilot for the UN's Blue Lightning squad.  You have to travel from continent to continent, and end Drako's plans at each stop using your awesome flight skills.\n\nBlue Lightning is a 3D flight game featuring 7 real-life fighter jets.  There are several types of missions, including dogfights, ground targets, and escorts. Your arsenal consists of various cannons, missiles, and special bombs.  The game can be played either from a behind-the-plane perspective, or an in-cockpit perspective.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/B/Blue%20Lightning%20%28NA%29.lnx"
+          },
+          "added": 1686400158714
         },
         {
           "title": "California Games",
@@ -1714,19 +1727,6 @@
           "added": 1686399562991
         },
         {
-          "title": "Chip's Challenge",
-          "longTitle": "Chip's Challenge (USA, Europe)",
-          "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Chip's%20Challenge%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Chip's%20Challenge%20(USA%2C%20Europe).png",
-          "description": "Nerdy Chip desperately wants to join the \"Bit Busters\" computer club, led by Melinda the Mental Marvel.  However, before she'll let him in, he must prove his intelligence by passing the initiation test.  149 increasingly difficult levels, including a few hidden ones, await Chip in this tile-based puzzle game.  Use tools such as keys, and special shoes to bypass obstacles.  Manipulate switches to and use dirt blocks to build bridges across waterways.  Avoid enemy creatures, grab all the computer chips in the level, and hurry to the exit: On top of everything else, there's a time limit!",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/C/Chip%27s%20Challenge%20%28NA%29.lnx"
-          },
-          "added": 1686399562992
-        },
-        {
           "title": "Checkered Flag",
           "longTitle": "Checkered Flag (USA, Europe)",
           "type": "lnx",
@@ -1740,133 +1740,69 @@
           "added": 1686399615216
         },
         {
-          "title": "Toki",
-          "longTitle": "Toki (USA, Europe)",
+          "title": "Chip's Challenge",
+          "longTitle": "Chip's Challenge (USA, Europe)",
           "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Toki%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Toki%20(USA%2C%20Europe).png",
-          "description": "The hero of the game is a young jungle-man named Toki. One day the evil wizard Dr. Stark kidnaps his girlfriend Wanda. When Toki tries to save her, he is turned into a monkey! Now Toki has to find Dr. Stark in his palace, to rescue Wanda, and to become a human being again!\n\nIt is a platform game with a lot of various levels: jungle, underwater, volcanic caves, on the ice... Toki's only weapons are spitting on the enemies or jumping on them and crashing them. There are many possibilities to upgrade his spitting \"weapon\";  for example, if he finds an upgrade, he can spit fireballs. \n\nThis game is ported from an older arcade version.",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Chip's%20Challenge%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Chip's%20Challenge%20(USA%2C%20Europe).png",
+          "description": "Nerdy Chip desperately wants to join the \"Bit Busters\" computer club, led by Melinda the Mental Marvel.  However, before she'll let him in, he must prove his intelligence by passing the initiation test.  149 increasingly difficult levels, including a few hidden ones, await Chip in this tile-based puzzle game.  Use tools such as keys, and special shoes to bypass obstacles.  Manipulate switches to and use dirt blocks to build bridges across waterways.  Avoid enemy creatures, grab all the computer chips in the level, and hurry to the exit: On top of everything else, there's a time limit!",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/T/Toki%20%28NA%29.lnx"
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/C/Chip%27s%20Challenge%20%28NA%29.lnx"
           },
-          "added": 1686399668575
+          "added": 1686399562992
         },
         {
-          "title": "Rampart",
-          "longTitle": "Rampart (USA, Europe)",
+          "title": "Dracula the Undead",
+          "longTitle": "Dracula the Undead (USA, Europe)",
           "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Rampart%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Rampart%20(USA%2C%20Europe).png",
-          "description": "Tetris meets shoot-'em-up, Rampart was originally a one or two-player arcade game combining strategy and artillery action. Build your castle from Tetris-style pieces, place your cannons, bombard the enemy, try to repair, do it all over again. Later arcade revisions incorporated 3-player,  and the PC conversion does as well, making it a faithful, entertaining classic for multiple players on the same PC.",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Dracula%20the%20Undead%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Dracula%20the%20Undead%20(USA%2C%20Europe).png",
+          "description": "In this game you play the role of Jonathan Harker, an Estate Agent who has visited Dracula's castle to conduct some business. The gameplay is a point and click style adventure except it has been tweaked to accommodate the Lynx controls. To interact with an object you move Jonathan next to the object with the D-Pad and then its name will pop up in the interaction bar. You then need to select an action such as Open, Close examine e.t.c.. The main idea of the game is to explore Dracula's castle while he is away and try to gather information that will prove he is a very serious threat to the mortal world. there are also other character in the game to interact with and Bram Stoker (the writer of Dracula which this game is based on) is in the game in digital form to narrate the story.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/Rampart%20%28NA%29.lnx"
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/D/Dracula%20-%20The%20Undead%20%28NA%29.lnx"
           },
-          "added": 1686399789477
+          "added": 1686400493498
         },
         {
-          "title": "Rygar",
-          "longTitle": "Rygar (USA, Europe)",
+          "title": "Gauntlet - The Third Encounter",
+          "longTitle": "Gauntlet - The Third Encounter (USA, Europe)",
           "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Rygar%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Rygar%20(USA%2C%20Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
+          "description": "Generations ago an enchanted Star Gen crashed to Earth at the base of an ancient castle. Loathsome creatures crept from the castle and carried the Gem into the depths of the fortress.\n\nAll attempts to retrieve the Star Gem failed. The adventurers were destroyed.\n\nThe creatures in the castle gain magical strength from the Star Gem. Unless the Gem is taken from them, the evil ones will soon have the strength to venture forth and destroy mankind!\n\nYou and your friends must take up the quest to rescue the Star Gem... and your world!",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/Rygar%20-%20Legendary%20Warrior%20%28NA%29.lnx"
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/G/Gauntlet%20-%20The%20Third%20Encounter%20%28NA%29.lnx"
           },
-          "added": 1686399789477
+          "added": 1686400085079
         },
         {
-          "title": "Rampage",
-          "longTitle": "Rampage (USA, Europe)",
+          "title": "Gauntlet - The Third Encounter",
+          "longTitle": "Gauntlet - The Third Encounter (USA, Europe)",
           "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Rampage%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Rampage%20(USA%2C%20Europe).png",
-          "description": "George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.\n\nSmashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
+          "description": "Generations ago an enchanted Star Gen crashed to Earth at the base of an ancient castle. Loathsome creatures crept from the castle and carried the Gem into the depths of the fortress.\n\nAll attempts to retrieve the Star Gem failed. The adventurers were destroyed.\n\nThe creatures in the castle gain magical strength from the Star Gem. Unless the Gem is taken from them, the evil ones will soon have the strength to venture forth and destroy mankind!\n\nYou and your friends must take up the quest to rescue the Star Gem... and your world!",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/Rampage%20%28NA%29.lnx"
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/G/Gauntlet%20-%20The%20Third%20Encounter%20%28NA%29.lnx"
           },
-          "added": 1686399789477
+          "added": 1686400355516
         },
         {
-          "title": "RoadBlasters",
-          "longTitle": "RoadBlasters (USA, Europe)",
+          "title": "Hydra",
+          "longTitle": "Hydra (USA, Europe)",
           "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/RoadBlasters%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/RoadBlasters%20(USA%2C%20Europe).png",
-          "description": "RoadBlasters is a futuristic racing action game. The goal is to reach the finish line in one piece throughout each of 50 levels. Numerous enemies are out on the road to try and stop you, including armored cars, motorcycles, canons on the side of the road, landmines, and more. \n\nYour vehicle is equipped with a machine gun to help you out, and occasionally a weapons plane will fly in and drop additional power ups that can be collected. Some of these are the U.Z. canon, cruise missiles, and speed boost. Your car has a very limited amount of fuel, however more can be picked up along the way by crossing the halfway point of a level, or by collecting the red and green fuel spheres that appear in the road or after destroying certain enemies.  On many levels collecting fuel is critical otherwise you won't be able to reach the finish line.",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Hydra%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Hydra%20(USA%2C%20Europe).png",
+          "description": "If being the best speedboat racer in the world were all there was to life, you'd live on easy street.  But when the government of Hydra has asked for your help in defeating Hydra's enemies by couriering parts to a secret weapon, and those enemies know you're coming... well then, life gets interesting.\n\nRace down narrow swamp lanes to deliver parts of a secret weapon to bases at the finish of each section.  Enemies will be shooting at you, but you can shoot back with Uzi Cannons and Nukes.  Collect crystals along the way to boost your speed or shields.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/RoadBlasters%20%28NA%29.lnx"
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/H/Hydra%20%28NA%29.lnx"
           },
-          "added": 1686399789477
-        },
-        {
-          "title": "Ms. Pac-Man",
-          "longTitle": "Ms. Pac-Man (USA, Europe)",
-          "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Ms.%20Pac-Man%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Ms.%20Pac-Man%20(USA%2C%20Europe).png",
-          "description": "In 1982, a sequel to the  incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man.  This sequel continued on the \"eat the dots/avoid the ghosts\" gameplay of the original game, but added new features to keep the title fresh.\n\nLike her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit  while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics.  One touch from any of these ghosts means a loss of life for Ms. Pac-Man.\n\nMs. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points (ranging from 200, 400, 800 and 1600, progressively). The Energizer power only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.\n\nSurvive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of \"Junior\".",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/M/Ms.%20Pac-Man%20%28NA%29.lnx"
-          },
-          "added": 1686399840314
-        },
-        {
-          "title": "Shadow of the Beast",
-          "longTitle": "Shadow of the Beast (USA, Europe)",
-          "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Shadow%20of%20the%20Beast%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Shadow%20of%20the%20Beast%20(USA%2C%20Europe).png",
-          "description": "While very young, Aarbron was kidnapped and enslaved by the Priests of the Beast Lord. He grew up on drugs made to destroy his own will and turn him into the Beast Messenger, a powerful creature serving Maletoth, The Beast Lord himself. He did his job, until one day he noticed a man about to be sacrificed in a ritual, his face triggering ancient memories... and as the sacrificial knife descended into the man's body, Aarbron recognizes the face. Of his father.\nAs his father dies in the altar, memories of his childhood and tormented past at the hands of the Beast Lord emerged, and as feelings of hate over his captors took over him, he swore revenge and fled the temple, knowing the road to avenge his father and redemption would be hard.\n\nShadow of the Beast, one of Psygnosis most popular titles during the 16-bit computer era is a side-scrolling platformer best known for the use of parallax scrolling along lush graphics, a musical score  by David Whittaker, a iconic cover by Roger Dean and what many consider to be unforgiving gameplay, balancing between the \"very challenging\" and the \"impossible\". The player has to navigate through several areas filled with enemies and traps, collecting keys and activating triggers than open new areas or give Aarbron the means to overcome a sub-boss. The number of moves the player has at disposal is limited: duck, jump and only two attacks: punch and a flying kick. While most enemies die with just one hit, the player must time each attack accurately. However, there are also traps of objects that cannot be destroyed, and these require the player to jump, duck or move according the sequence. The player has only one life with 12 hit points that can be replenished by collecting some objects hidden in the level (like an off-route location or a under a megalith), which also contributes to the difficulty level.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/S/Shadow%20of%20the%20Beast%20%28NA%29.lnx"
-          },
-          "added": 1686399925196
-        },
-        {
-          "title": "Scrapyard Dog",
-          "longTitle": "Scrapyard Dog (USA, Europe)",
-          "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Scrapyard%20Dog%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Scrapyard%20Dog%20(USA%2C%20Europe).png",
-          "description": "In Scrapyard Dog you play the role of Louie, the junkyard guy, who's companion Scraps has been dognapped by the dastardly Mr. Big. Louie has bombs and cans at his disposal to use against the enemies, which include gangsters, rats, and mice. He can also use shields to protect himself on route to the sixteen checkpoints in the game. Louie must reach each checkpoint in a certain amount of time in order to save Scraps.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/S/Scrapyard%20Dog%20%28NA%29.lnx"
-          },
-          "added": 1686399925196
-        },
-        {
-          "title": "Super Skweek",
-          "longTitle": "Super Skweek (USA, Europe)",
-          "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Super%20Skweek%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Super%20Skweek%20(USA%2C%20Europe).png",
-          "description": "Super Skweek is a game inspired by the wide success of Chip's Challenge, and share some elements of that puzzler while combining other elements from games such as Pengo.\n\nIn Super Skweek, you play the title character who must walk around and either paint all the tiles of the game board pink, complete a specific mission, or both.  Some tiles react in various ways when you walk on them, like exploding.  \n\nUnlike Chip's Challenge, the game plays in realtime and you can pick up and use weapons to keep away certain monsters as you paint the tiles.  There is also a shop you can enter to purchase items.  Finally, levels have a time limit for completion.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/S/Super%20Skweek%20%28NA%29.lnx"
-          },
-          "added": 1686399925197
-        },
-        {
-          "title": "S.T.U.N. Runner",
-          "longTitle": "S.T.U.N. Runner (USA, Europe)",
-          "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/S.T.U.N.%20Runner%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/S.T.U.N.%20Runner%20(USA%2C%20Europe).png",
-          "description": "Based on the 1989 Atari Games (not to be confused with Atari Corporation, producers of the Lynx) coin-op by Ed Rotberg.  It's 2492 and you must pilot your Sub-Terranean Underground Network (S.T.U.N.) craft at speeds over 900 miles per hour through a series of courses to retain your title as S.T.U.N. Runner, completing each course before time runs out.\n\nThere are also enemies on each course, such as cycles, indestructible armored drones, and flying bird-like craft.  Shoot or avoid them.  If you hit them, you lose one of your shields (your craft has six total) and are slowed down temporarily.  The more shields you have at the finish line, the more bonus points you get.  Getting hit with no shields does not kill you, however.  There are no lives in this game.  The only way to lose is to fail to cross the finish line.\n\nAlong the way you'll encounter Boost Pads that temporarily speed you up to incredible speeds and make you indestructible.  By running over enough green stars on each course, you can also earn Shockwaves, which destroy all enemies in your path.\n\nNote that there is no accelerator in this game.  Your craft always goes full speed, unless you hit something.  Then you will slow down, but quickly accelerate back to full speed.  Other than that, you cannot slow down and the only way to speed up is to run over a Boost Pad.  Your only controls are steering left and right and aiming the gun on top of your craft up and down.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/S/S.T.U.N.%20Runner%20%28NA%29.lnx"
-          },
-          "added": 1686399925197
+          "added": 1686400218677
         },
         {
           "title": "Klax",
@@ -1880,6 +1816,32 @@
             "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/K/Klax%20%28NA%29.lnx"
           },
           "added": 1686400042608
+        },
+        {
+          "title": "Lemmings",
+          "longTitle": "Lemmings (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Lemmings%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Lemmings%20(USA%2C%20Europe).png",
+          "description": "Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.\n\nYou are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/L/Lemmings%20%28NA%29.lnx"
+          },
+          "added": 1686399476705
+        },
+        {
+          "title": "Ms. Pac-Man",
+          "longTitle": "Ms. Pac-Man (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Ms.%20Pac-Man%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Ms.%20Pac-Man%20(USA%2C%20Europe).png",
+          "description": "In 1982, a sequel to the  incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man.  This sequel continued on the \"eat the dots/avoid the ghosts\" gameplay of the original game, but added new features to keep the title fresh.\n\nLike her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit  while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics.  One touch from any of these ghosts means a loss of life for Ms. Pac-Man.\n\nMs. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points (ranging from 200, 400, 800 and 1600, progressively). The Energizer power only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.\n\nSurvive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of \"Junior\".",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/M/Ms.%20Pac-Man%20%28NA%29.lnx"
+          },
+          "added": 1686399840314
         },
         {
           "title": "Ninja Gaiden",
@@ -1908,84 +1870,6 @@
           "added": 1686400042608
         },
         {
-          "title": "Gauntlet - The Third Encounter",
-          "longTitle": "Gauntlet - The Third Encounter (USA, Europe)",
-          "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
-          "description": "Generations ago an enchanted Star Gen crashed to Earth at the base of an ancient castle. Loathsome creatures crept from the castle and carried the Gem into the depths of the fortress.\n\nAll attempts to retrieve the Star Gem failed. The adventurers were destroyed.\n\nThe creatures in the castle gain magical strength from the Star Gem. Unless the Gem is taken from them, the evil ones will soon have the strength to venture forth and destroy mankind!\n\nYou and your friends must take up the quest to rescue the Star Gem... and your world!",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/G/Gauntlet%20-%20The%20Third%20Encounter%20%28NA%29.lnx"
-          },
-          "added": 1686400085079
-        },
-        {
-          "title": "Blue Lightning",
-          "longTitle": "Blue Lightning (USA, Europe)",
-          "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Blue%20Lightning%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Blue%20Lightning%20(USA%2C%20Europe).png",
-          "description": "The insanely evil General Drako is spreading his own special blend of spite and chaos around the globe.  You are a top fighter pilot for the UN's Blue Lightning squad.  You have to travel from continent to continent, and end Drako's plans at each stop using your awesome flight skills.\n\nBlue Lightning is a 3D flight game featuring 7 real-life fighter jets.  There are several types of missions, including dogfights, ground targets, and escorts. Your arsenal consists of various cannons, missiles, and special bombs.  The game can be played either from a behind-the-plane perspective, or an in-cockpit perspective.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/B/Blue%20Lightning%20%28NA%29.lnx"
-          },
-          "added": 1686400158714
-        },
-        {
-          "title": "Hydra",
-          "longTitle": "Hydra (USA, Europe)",
-          "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Hydra%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Hydra%20(USA%2C%20Europe).png",
-          "description": "If being the best speedboat racer in the world were all there was to life, you'd live on easy street.  But when the government of Hydra has asked for your help in defeating Hydra's enemies by couriering parts to a secret weapon, and those enemies know you're coming... well then, life gets interesting.\n\nRace down narrow swamp lanes to deliver parts of a secret weapon to bases at the finish of each section.  Enemies will be shooting at you, but you can shoot back with Uzi Cannons and Nukes.  Collect crystals along the way to boost your speed or shields.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/H/Hydra%20%28NA%29.lnx"
-          },
-          "added": 1686400218677
-        },
-        {
-          "title": "Viking Child",
-          "longTitle": "Viking Child (USA, Europe)",
-          "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Viking%20Child%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Viking%20Child%20(USA%2C%20Europe).png",
-          "description": "Cartoony side-scroller where you take the role of, as the title states, a viking child, in his quest to free his friends and family, held by the evil god Loki inside the Great Halls of Valhalla.\n\nFight your way through 16 levels with diverse scenarios, including medieval castles and mountains. Spread throughout the levels are shops in which you can buy potions and other magical items to help you along the way. Before you finally face the Dark Lord Loki, you must also defeat the 8 Apprentices of Darkness.\n\nThe game features colorful graphics and 22 different tunes to make the whole trip a bit more pleasant.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/V/Viking%20Child%20%28NA%29.lnx"
-          },
-          "added": 1686400245647
-        },
-        {
-          "title": "Gauntlet - The Third Encounter",
-          "longTitle": "Gauntlet - The Third Encounter (USA, Europe)",
-          "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
-          "description": "Generations ago an enchanted Star Gen crashed to Earth at the base of an ancient castle. Loathsome creatures crept from the castle and carried the Gem into the depths of the fortress.\n\nAll attempts to retrieve the Star Gem failed. The adventurers were destroyed.\n\nThe creatures in the castle gain magical strength from the Star Gem. Unless the Gem is taken from them, the evil ones will soon have the strength to venture forth and destroy mankind!\n\nYou and your friends must take up the quest to rescue the Star Gem... and your world!",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/G/Gauntlet%20-%20The%20Third%20Encounter%20%28NA%29.lnx"
-          },
-          "added": 1686400355516
-        },
-        {
-          "title": "Awesome Golf",
-          "longTitle": "Awesome Golf (USA, Europe)",
-          "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Awesome%20Golf%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Awesome%20Golf%20(USA%2C%20Europe).png",
-          "description": "Awesome Golf is as the name suggests, a golf simulator. There are 3 courses to play one in the U.K one in the U.S and the third one in Japan. The gameplay involves you lining up your shot via an overhead view which when set up switches to a third person view. Whilst in this view you need to swing the club and stop it at the desired power and then stop it on the correct symbol to get the perfect hit. If you don't get it right you will either miss the ball or hit the earth. There are 14 clubs at your disposal, 8 irons, 3 woods 2 wedges and a putter which are selected by moving the hand cursor over you Golf bag and selecting the desired club.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/A/Awesome%20Golf%20%28NA%29.lnx"
-          },
-          "added": 1686400388846
-        },
-        {
           "title": "QIX",
           "longTitle": "QIX (USA, Europe)",
           "type": "lnx",
@@ -1999,30 +1883,43 @@
           "added": 1686400432327
         },
         {
-          "title": "Dracula the Undead",
-          "longTitle": "Dracula the Undead (USA, Europe)",
+          "title": "Rampage",
+          "longTitle": "Rampage (USA, Europe)",
           "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Dracula%20the%20Undead%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Dracula%20the%20Undead%20(USA%2C%20Europe).png",
-          "description": "In this game you play the role of Jonathan Harker, an Estate Agent who has visited Dracula's castle to conduct some business. The gameplay is a point and click style adventure except it has been tweaked to accommodate the Lynx controls. To interact with an object you move Jonathan next to the object with the D-Pad and then its name will pop up in the interaction bar. You then need to select an action such as Open, Close examine e.t.c.. The main idea of the game is to explore Dracula's castle while he is away and try to gather information that will prove he is a very serious threat to the mortal world. there are also other character in the game to interact with and Bram Stoker (the writer of Dracula which this game is based on) is in the game in digital form to narrate the story.",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Rampage%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Rampage%20(USA%2C%20Europe).png",
+          "description": "George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.\n\nSmashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/D/Dracula%20-%20The%20Undead%20%28NA%29.lnx"
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/Rampage%20%28NA%29.lnx"
           },
-          "added": 1686400493498
+          "added": 1686399789477
         },
         {
-          "title": "Xybots",
-          "longTitle": "Xybots (USA, Europe)",
+          "title": "Rampart",
+          "longTitle": "Rampart (USA, Europe)",
           "type": "lnx",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Xybots%20(USA%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Xybots%20(USA%2C%20Europe).png",
-          "description": "Xybots is either an unusually simple computer game or an unusually complex coin-op shoot 'em up, depending on your point of view. With either one or two players, you must move through a series of Gauntlet-style underground mazes, killing the bad guys and collecting health and other bonuses from flying saucers (underground? SLIGHT logic gap there, methinks).It's designed to be played co-operatively, although bullets from one player can harm the other.\n\nThe Xybots are out to stop you, of course, and many have advanced attack patterns as well as bullets to fire at you. Being able to view round corners is useful, allowing you to plan a strategy - often it's good to send one player forward and let the other play the waiting game, as in Gauntlet.",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Rampart%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Rampart%20(USA%2C%20Europe).png",
+          "description": "Tetris meets shoot-'em-up, Rampart was originally a one or two-player arcade game combining strategy and artillery action. Build your castle from Tetris-style pieces, place your cannons, bombard the enemy, try to repair, do it all over again. Later arcade revisions incorporated 3-player,  and the PC conversion does as well, making it a faithful, entertaining classic for multiple players on the same PC.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/X/Xybots%20%28NA%29.lnx"
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/Rampart%20%28NA%29.lnx"
           },
-          "added": 1686400510352
+          "added": 1686399789477
+        },
+        {
+          "title": "RoadBlasters",
+          "longTitle": "RoadBlasters (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/RoadBlasters%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/RoadBlasters%20(USA%2C%20Europe).png",
+          "description": "RoadBlasters is a futuristic racing action game. The goal is to reach the finish line in one piece throughout each of 50 levels. Numerous enemies are out on the road to try and stop you, including armored cars, motorcycles, canons on the side of the road, landmines, and more. \n\nYour vehicle is equipped with a machine gun to help you out, and occasionally a weapons plane will fly in and drop additional power ups that can be collected. Some of these are the U.Z. canon, cruise missiles, and speed boost. Your car has a very limited amount of fuel, however more can be picked up along the way by crossing the halfway point of a level, or by collecting the red and green fuel spheres that appear in the road or after destroying certain enemies.  On many levels collecting fuel is critical otherwise you won't be able to reach the finish line.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/RoadBlasters%20%28NA%29.lnx"
+          },
+          "added": 1686399789477
         },
         {
           "title": "Robo-Squash",
@@ -2038,6 +1935,96 @@
           "added": 1686400552273
         },
         {
+          "title": "Rygar",
+          "longTitle": "Rygar (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Rygar%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Rygar%20(USA%2C%20Europe).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/R/Rygar%20-%20Legendary%20Warrior%20%28NA%29.lnx"
+          },
+          "added": 1686399789477
+        },
+        {
+          "title": "S.T.U.N. Runner",
+          "longTitle": "S.T.U.N. Runner (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/S.T.U.N.%20Runner%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/S.T.U.N.%20Runner%20(USA%2C%20Europe).png",
+          "description": "Based on the 1989 Atari Games (not to be confused with Atari Corporation, producers of the Lynx) coin-op by Ed Rotberg.  It's 2492 and you must pilot your Sub-Terranean Underground Network (S.T.U.N.) craft at speeds over 900 miles per hour through a series of courses to retain your title as S.T.U.N. Runner, completing each course before time runs out.\n\nThere are also enemies on each course, such as cycles, indestructible armored drones, and flying bird-like craft.  Shoot or avoid them.  If you hit them, you lose one of your shields (your craft has six total) and are slowed down temporarily.  The more shields you have at the finish line, the more bonus points you get.  Getting hit with no shields does not kill you, however.  There are no lives in this game.  The only way to lose is to fail to cross the finish line.\n\nAlong the way you'll encounter Boost Pads that temporarily speed you up to incredible speeds and make you indestructible.  By running over enough green stars on each course, you can also earn Shockwaves, which destroy all enemies in your path.\n\nNote that there is no accelerator in this game.  Your craft always goes full speed, unless you hit something.  Then you will slow down, but quickly accelerate back to full speed.  Other than that, you cannot slow down and the only way to speed up is to run over a Boost Pad.  Your only controls are steering left and right and aiming the gun on top of your craft up and down.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/S/S.T.U.N.%20Runner%20%28NA%29.lnx"
+          },
+          "added": 1686399925197
+        },
+        {
+          "title": "Scrapyard Dog",
+          "longTitle": "Scrapyard Dog (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Scrapyard%20Dog%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Scrapyard%20Dog%20(USA%2C%20Europe).png",
+          "description": "In Scrapyard Dog you play the role of Louie, the junkyard guy, who's companion Scraps has been dognapped by the dastardly Mr. Big. Louie has bombs and cans at his disposal to use against the enemies, which include gangsters, rats, and mice. He can also use shields to protect himself on route to the sixteen checkpoints in the game. Louie must reach each checkpoint in a certain amount of time in order to save Scraps.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/S/Scrapyard%20Dog%20%28NA%29.lnx"
+          },
+          "added": 1686399925196
+        },
+        {
+          "title": "Shadow of the Beast",
+          "longTitle": "Shadow of the Beast (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Shadow%20of%20the%20Beast%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Shadow%20of%20the%20Beast%20(USA%2C%20Europe).png",
+          "description": "While very young, Aarbron was kidnapped and enslaved by the Priests of the Beast Lord. He grew up on drugs made to destroy his own will and turn him into the Beast Messenger, a powerful creature serving Maletoth, The Beast Lord himself. He did his job, until one day he noticed a man about to be sacrificed in a ritual, his face triggering ancient memories... and as the sacrificial knife descended into the man's body, Aarbron recognizes the face. Of his father.\nAs his father dies in the altar, memories of his childhood and tormented past at the hands of the Beast Lord emerged, and as feelings of hate over his captors took over him, he swore revenge and fled the temple, knowing the road to avenge his father and redemption would be hard.\n\nShadow of the Beast, one of Psygnosis most popular titles during the 16-bit computer era is a side-scrolling platformer best known for the use of parallax scrolling along lush graphics, a musical score  by David Whittaker, a iconic cover by Roger Dean and what many consider to be unforgiving gameplay, balancing between the \"very challenging\" and the \"impossible\". The player has to navigate through several areas filled with enemies and traps, collecting keys and activating triggers than open new areas or give Aarbron the means to overcome a sub-boss. The number of moves the player has at disposal is limited: duck, jump and only two attacks: punch and a flying kick. While most enemies die with just one hit, the player must time each attack accurately. However, there are also traps of objects that cannot be destroyed, and these require the player to jump, duck or move according the sequence. The player has only one life with 12 hit points that can be replenished by collecting some objects hidden in the level (like an off-route location or a under a megalith), which also contributes to the difficulty level.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/S/Shadow%20of%20the%20Beast%20%28NA%29.lnx"
+          },
+          "added": 1686399925196
+        },
+        {
+          "title": "Super Skweek",
+          "longTitle": "Super Skweek (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Super%20Skweek%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Super%20Skweek%20(USA%2C%20Europe).png",
+          "description": "Super Skweek is a game inspired by the wide success of Chip's Challenge, and share some elements of that puzzler while combining other elements from games such as Pengo.\n\nIn Super Skweek, you play the title character who must walk around and either paint all the tiles of the game board pink, complete a specific mission, or both.  Some tiles react in various ways when you walk on them, like exploding.  \n\nUnlike Chip's Challenge, the game plays in realtime and you can pick up and use weapons to keep away certain monsters as you paint the tiles.  There is also a shop you can enter to purchase items.  Finally, levels have a time limit for completion.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/S/Super%20Skweek%20%28NA%29.lnx"
+          },
+          "added": 1686399925197
+        },
+        {
+          "title": "Toki",
+          "longTitle": "Toki (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Toki%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Toki%20(USA%2C%20Europe).png",
+          "description": "The hero of the game is a young jungle-man named Toki. One day the evil wizard Dr. Stark kidnaps his girlfriend Wanda. When Toki tries to save her, he is turned into a monkey! Now Toki has to find Dr. Stark in his palace, to rescue Wanda, and to become a human being again!\n\nIt is a platform game with a lot of various levels: jungle, underwater, volcanic caves, on the ice... Toki's only weapons are spitting on the enemies or jumping on them and crashing them. There are many possibilities to upgrade his spitting \"weapon\";  for example, if he finds an upgrade, he can spit fireballs. \n\nThis game is ported from an older arcade version.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/T/Toki%20%28NA%29.lnx"
+          },
+          "added": 1686399668575
+        },
+        {
+          "title": "Viking Child",
+          "longTitle": "Viking Child (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Viking%20Child%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Viking%20Child%20(USA%2C%20Europe).png",
+          "description": "Cartoony side-scroller where you take the role of, as the title states, a viking child, in his quest to free his friends and family, held by the evil god Loki inside the Great Halls of Valhalla.\n\nFight your way through 16 levels with diverse scenarios, including medieval castles and mountains. Spread throughout the levels are shops in which you can buy potions and other magical items to help you along the way. Before you finally face the Dark Lord Loki, you must also defeat the 8 Apprentices of Darkness.\n\nThe game features colorful graphics and 22 different tunes to make the whole trip a bit more pleasant.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/V/Viking%20Child%20%28NA%29.lnx"
+          },
+          "added": 1686400245647
+        },
+        {
           "title": "Warbirds",
           "longTitle": "Warbirds (USA, Europe)",
           "type": "lnx",
@@ -2049,6 +2036,19 @@
             "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/W/Warbirds%20%28NA%29.lnx"
           },
           "added": 1686400572938
+        },
+        {
+          "title": "Xybots",
+          "longTitle": "Xybots (USA, Europe)",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Xybots%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Xybots%20(USA%2C%20Europe).png",
+          "description": "Xybots is either an unusually simple computer game or an unusually complex coin-op shoot 'em up, depending on your point of view. With either one or two players, you must move through a series of Gauntlet-style underground mazes, killing the bad guys and collecting health and other bonuses from flying saucers (underground? SLIGHT logic gap there, methinks).It's designed to be played co-operatively, although bullets from one player can harm the other.\n\nThe Xybots are out to stop you, of course, and many have advanced attack patterns as well as bullets to fire at you. Being able to view round corners is useful, allowing you to plan a strategy - often it's good to send one player forward and let the other play the waiting game, as in Gauntlet.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/atari-lynx-champion-collection-updated/X/Xybots%20%28NA%29.lnx"
+          },
+          "added": 1686400510352
         }
       ]
     },
@@ -14219,15 +14219,394 @@
       "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Nintendo-Game-Boy-Advance.jpg?raw=true",
       "description": "The Game Boy Advance (GBA) is a 32-bit handheld game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, in the PAL region on June 22, 2001, and in mainland China as iQue Game Boy Advance on June 8, 2004. The GBA is part of the sixth generation of video game consoles. The original model does not have an illuminated screen; Nintendo addressed that with the release of a redesigned model with a frontlit screen, the Game Boy Advance SP, in 2003. A newer revision of the redesign was released in 2005, with a backlit screen. Around the same time, the final redesign, the Game Boy Micro, was released in September 2005.",
       "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/Nintendo.png?raw=true"
+    },
+    {
+      "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Neo-Geo-aes.jpeg?raw=true",
+      "title": "Neo-Geo AES",
+      "longTitle": "Neo-Geo Advanced Entertainment System",
+      "description": "The Neo-Geo Advanced Entertainment System (AES) is a home console created by SNK in 1990. This console uses the same hardware as the Neo-Geo MVS (for Multi Video System) arcade terminal, enabling it to display quality arcade games without the need for ports or adaptations. The Neo-Geo AES has top-of-the-range image and sound quality, as well as a gamepad that allows players to play comfortably. This console has been a great success thanks to its advanced capabilities and exclusive game catalog.",
+      "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/SNK.png?raw=true",
+      "backgroundPixelated": true,
+      "items": [
+        {
+          "type": "neogeo",
+          "title": "Andro Dunos",
+          "longTitle": "Andro Dunos (NGM-049)(NGH-049)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Andro%20Dunos%20(NGM-049)(NGH-049).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Andro%20Dunos%20(NGM-049)(NGH-049).png",
+          "description": "The invasion of an unknown life source is getting worse. Nobody knows if the defensive line or the heart of the enemy base is ruined first. With the people's hope, the most advanced fighter will be dispatched into multi-scrolling space.\n\nFight your way through seven stages in this horizontal-scrolling game, and defeat a boss at the end of each one. You start the game with four main weapons, which you can switch from with the click of a button. Some of these weapons are more powerful than others. You can also fire off a charged shot if your main weapon level is two or greater, simply by holding down the fire button for about two seconds. Using charged shots can do more damage to an enemy ship. If you happen to die, you will lose one power level from all four weapons. If all your lives are lost and are forced to continue, you will start again with your main weapon on the second power level and all three sub-weapons on the first power level.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/androdun.zip"
+          },
+          "added": 1686476537636
+        },
+        {
+          "type": "neogeo",
+          "title": "Bakatonosama Mahjong Manyuuki",
+          "longTitle": "Bakatonosama Mahjong Manyuuki (MOM-002)(MOH-002)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Bakatonosama%20Mahjong%20Manyuuki%20(MOM-002)(MOH-002).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Bakatonosama%20Mahjong%20Manyuuki%20(MOM-002)(MOH-002).png",
+          "description": "Early Neo-Geo mahjong game with a somewhat comical medieval Japanese setting.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/bakatono.zip"
+          },
+          "added": 1686476537636
+        },
+        {
+          "type": "neogeo",
+          "title": "Bang Bead",
+          "longTitle": "Bang Bead",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Bang%20Bead.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Bang%20Bead.png",
+          "description": "Bang Bead, known in Japan as Bang Beads, is a 2001 ball-and-paddle game developed and published by Visco exclusively for the arcade cabinet known as the SNK Neo-Geo MVS hardware. It combines the genres of the Magnavox Odyssey Tennis game, Atari's Pong and Breakout arcades, and Nintendo's Spitball Sparky of the Game & Watch series. You can select from 9 characters and play against another player or the computer. Knock out the stars behind the other player then get the bouncing ball through to win the round.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/bangbead.zip"
+          },
+          "added": 1686476537636
+        },
+        {
+          "type": "neogeo",
+          "title": "Baseball Stars 2",
+          "longTitle": "Baseball Stars 2",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Baseball%20Stars%202.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Baseball%20Stars%202.png",
+          "description": "This follow up to Baseball Stars Professional features a fast-paced arcade style baseball with six fictitious teams, each with their own strengths and weaknesses.  There are two difficulties of play: Beginner, which automatically fields the ball for the player while Exciting has the player do the field manually.  Additionally, there are two main modes of play where in the single player mode the player will compete in a fifteen-team tournament or go head-to-head against a friend in a multiplayer mode.\n\nThe standard rules of baseball still apply, but it adds power-ups that the player can pick up and use during the game, such as the ability for their pitcher to throw faster or their batter to hit better.  They can also substitute a player during the game, but are limited to three substitutions per game. The game is shown through 2D graphics with comic-style cutscenes to illustrate the action, such as dramatic catches and home runs that will pop-up during the game.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/bstars2.zip"
+          },
+          "added": 1686476464850
+        },
+        {
+          "type": "neogeo",
+          "title": "Baseball Stars Professional",
+          "longTitle": "Baseball Stars Professional (NGM-002)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Baseball%20Stars%20Professional%20(NGM-002).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Baseball%20Stars%20Professional%20(NGM-002).png",
+          "description": "Baseball Stars Professional is the follow-up to Baseball Stars for the Nintendo Entertainment System, and features comic-style graphics. Choose from a variety of teams that include Celestial Planets, Heavenly Bodies, Shadow Demons, Battle Knights, Fabulous Superstars, and many others. Then select the field where the game is to be held: The SNK stadium or the SNK dome. Each field has the same dimensions, but their capacity varies. The game is played the same way as normal baseball. Features a VS. mode in which two players can play against each other.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/bstars.zip"
+          },
+          "added": 1686476464850
+        },
+        {
+          "type": "neogeo",
+          "title": "Blue's Journey / Raguy",
+          "longTitle": "Blue's Journey / Raguy (ALM-001)(ALH-001)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Blue's%20Journey%20_%20Raguy%20(ALM-001)(ALH-001).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Blue's%20Journey%20_%20Raguy%20(ALM-001)(ALH-001).png",
+          "description": "Raguy is an environmentally-themed side-scrolling platform game for one or two players. \n\nThe player controls a heroic young man named 'Blue' (in the two-player game the second player controls 'Princess Fa', who has identical powers to Blue), whose peaceful home planet of 'Raguy' has been invaded by the evil Daruma tribe. The Daruma are polluting the planet as they consume its dwindling resources and it falls on Blue and the Princess to stop them and save Raguy. \n\nBoth Blue and Princess Fa have the ability to stun enemies by hitting them with a large leaf. Once stunned, they can be picked up and thrown as projectiles at other enemies. Blue and Princess Fa can also shrink in size in order to access hidden areas, but they are not able to stun enemies while shrunk. If only one player is shrunk, they can be picked up by the other player and thrown as a projectile at the enemies. \n\nFlowers, bonus items and power-ups are littered throughout the levels. The flowers are the game's form of currency and can be used in the shops that are located throughout the game. There are two different types of shop, offering either tips and help with overcoming certain obstacles, or health and weapon power-ups.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/bjourney.zip"
+          },
+          "added": 1686476537636
+        },
+        {
+          "type": "neogeo",
+          "title": "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai",
+          "longTitle": "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai (NGM-033)(NGH-033)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Fatal%20Fury%20-%20King%20of%20Fighters%20_%20Garou%20Densetsu%20-%20shukumei%20no%20tatakai%20(NGM-033)(NGH-033).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Fatal%20Fury%20-%20King%20of%20Fighters%20_%20Garou%20Densetsu%20-%20shukumei%20no%20tatakai%20(NGM-033)(NGH-033).png",
+          "description": "Southtown City plays host to the King of Fighters Tournament. Andy & Terry Bogard take part in the tournament cause winning the tournament is the only way they can defeat Geese Howard. Geese Howard controls Southtown City and killed their father several years ago. Also taking part is Joe Higashi, a Japanese kickboxer. Select either Joe, Andy or Terry, visit several locations in Southtown City and win that tournament!\n\nFatal Fury is a 2D fighter and is the first game in a series of one-on-one fighting games by SNK. It's a conversion of the original Fatal Fury arcade game. This first game does not yet feature the series' trademark pseudo 3D mode (which allows you to move between the foreground & background while fighting). Includes a two-player vs. mode.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/fatfury1.zip"
+          },
+          "added": 1686476698455
+        },
+        {
+          "type": "neogeo",
+          "title": "Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai",
+          "longTitle": "Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai (NGM-047)(NGH-047)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Fatal%20Fury%202%20_%20Garou%20Densetsu%202%20-%20arata-naru%20tatakai%20(NGM-047)(NGH-047).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Fatal%20Fury%202%20_%20Garou%20Densetsu%202%20-%20arata-naru%20tatakai%20(NGM-047)(NGH-047).png",
+          "description": "Again, the Lone Wolves return!\n\nGeese Howard may have been defeated, but that doesn't mean all is peaceful. A new opponent, Wolfgang Krauser, has come forth to begin a new Fatal Fury tournament. The Lone Wolves return, with new faces amongst them. Only one can be declared the winner though.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/fatfury2.zip"
+          },
+          "added": 1686476698455
+        },
+        {
+          "type": "neogeo",
+          "title": "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai",
+          "longTitle": "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Fatal%20Fury%203%20-%20Road%20to%20the%20Final%20Victory%20_%20Garou%20Densetsu%203%20-%20haruka-naru%20tatakai%20(NGM-069)(NGH-069).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Fatal%20Fury%203%20-%20Road%20to%20the%20Final%20Victory%20_%20Garou%20Densetsu%203%20-%20haruka-naru%20tatakai%20(NGM-069)(NGH-069).png",
+          "description": "An adaptation of the Neo-Geo fighting game.  2-D scrolling one-on-one fighter with pseudo-3D aspects (that allows for players to \"escape\" holds, throws, and other attacks.)  Part of the incestuously-popular SNK fighting game pantheon...",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/fatfury3.zip"
+          },
+          "added": 1686476698455
+        },
+        {
+          "type": "neogeo",
+          "title": "Fatal Fury Special / Garou Densetsu Special",
+          "longTitle": "Fatal Fury Special / Garou Densetsu Special (set 1)(NGM-058)(NGH-058)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Fatal%20Fury%20Special%20_%20Garou%20Densetsu%20Special%20(set%201)(NGM-058)(NGH-058).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Fatal%20Fury%20Special%20_%20Garou%20Densetsu%20Special%20(set%201)(NGM-058)(NGH-058).png",
+          "description": "Fatal Fury Special is an improved version of SNK's 2D one-on-one fighter Fatal Fury 2. It's a conversion of the 1993 arcade game of the same name. The objective is still to win the tournament by defeating all other fighters including end boss Wolfgang Krauser. Fatal Fury Special features a fairly large selection of fighters. A new Count Down mode (defeat as many opponents as possible in 3 minutes).Extra color schemes for every character.New & improved background graphics.Dolby Surround Sound support.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/fatfursp.zip"
+          },
+          "added": 1686476698455
+        },
+        {
+          "type": "neogeo",
+          "title": "Garou - Mark of the Wolves",
+          "longTitle": "Garou - Mark of the Wolves (NGM-2530)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/Garou%20-%20Mark%20of%20the%20Wolves%20(NGM-2530).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/Garou%20-%20Mark%20of%20the%20Wolves%20(NGM-2530).png",
+          "description": "It's been several years since Geese Howard was defeated in a battle with Terry Bogard, a young man looking to avenge his father. Rather than looking to be saved from death after falling off his office balcony, Geese instead decided to die, and left behind his young son, Rock. Terry took Rock in and became like a big brother to him, raising the boy throughout his life.\n\nNow Rock is a teenager, and Terry is a man in his 30s, and both are about to come together in a new clash...new faces and old come together for the greatest battle yet!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/garou.zip"
+          },
+          "added": 1686476403156
+        },
+        {
+          "type": "neogeo",
+          "title": "The King of Fighters '94",
+          "longTitle": "The King of Fighters '94 (NGM-055)(NGH-055)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20King%20of%20Fighters%20'94%20(NGM-055)(NGH-055).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20King%20of%20Fighters%20'94%20(NGM-055)(NGH-055).png",
+          "description": "The King of Fighters '94 is notable in that it is one of the first known fighting games that pits a team of fighters against each other in single combat. Each team consists of three fighters for each player, the winner being the player who is able to eliminate the other team first. Each active character can charge up \"Art of Fighting\" style in order to gain access to \"Desperation Moves\", or \"DMs\" (moves which operate very much like Street Fighter's Super Combos). Playing against the computer, the player must defeat all 8 teams in the game in order to reach the final boss, Rugal Bernstein.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/kof94.zip"
+          },
+          "added": 1686477039118
+        },
+        {
+          "type": "neogeo",
+          "title": "The King of Fighters '95",
+          "longTitle": "The King of Fighters '95 (NGM-084)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20King%20of%20Fighters%20'95%20(NGM-084).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20King%20of%20Fighters%20'95%20(NGM-084).png",
+          "description": "8 teams comprised of 3 characters each square off again to take out Rugal Bernstein.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/kof95.zip"
+          },
+          "added": 1686477039118
+        },
+        {
+          "type": "neogeo",
+          "title": "The King of Fighters '96",
+          "longTitle": "The King of Fighters '96 (NGM-214)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20King%20of%20Fighters%20'96%20(NGM-214).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20King%20of%20Fighters%20'96%20(NGM-214).png",
+          "description": "SNK's flagship series returns for another year. Many of the changes in this year's KOF release come in the form of improved graphics, sound effects, music and totally redone character sprites. The gameplay of the system has been altered with the addition of \"Rush\" multi-hit combos and new moves for practically every character. The storyline of the series receives heavy focus in this release with the Orochi Saga swinging into high-gear. Other features carried over from the previous year include the ability to choose between the default \"Team Fighting\" mode or the traditional \"Single Fighter\" style of gameplay, plus the \"Versus\" and \"Survival\" gameplay modes.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/kof96.zip"
+          },
+          "added": 1686477039118
+        },
+        {
+          "type": "neogeo",
+          "title": "The King of Fighters '97",
+          "longTitle": "The King of Fighters '97 (NGM-2320)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20King%20of%20Fighters%20'97%20(NGM-2320).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20King%20of%20Fighters%20'97%20(NGM-2320).png",
+          "description": "9 teams of 3 and 2 solo entries pump the number of selectable characters up to 29 in a battle to defeat the evil Orochi and those infected with his blood.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/kof97.zip"
+          },
+          "added": 1686477039118
+        },
+        {
+          "type": "neogeo",
+          "title": "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends",
+          "longTitle": "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGM-2420)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20King%20of%20Fighters%20'98%20-%20The%20Slugfest%20_%20King%20of%20Fighters%20'98%20-%20dream%20match%20never%20ends%20(NGM-2420).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20King%20of%20Fighters%20'98%20-%20The%20Slugfest%20_%20King%20of%20Fighters%20'98%20-%20dream%20match%20never%20ends%20(NGM-2420).png",
+          "description": "A special edition of the KoF series taking place outside of the established storyline with a whopping 38 selectable KoF alumni.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/kof98.zip"
+          },
+          "added": 1686477039118
+        },
+        {
+          "type": "neogeo",
+          "title": "The King of Fighters '99 - Millennium Battle",
+          "longTitle": "The King of Fighters '99 - Millennium Battle (NGM-2510)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20King%20of%20Fighters%20'99%20-%20Millennium%20Battle%20(NGM-2510).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20King%20of%20Fighters%20'99%20-%20Millennium%20Battle%20(NGM-2510).png",
+          "description": "A new hero and surprising plot twists offer white-hot excitement! It is the season of KOF! A new chapter in the saga begins! With a story centering around the new hero K' (K Prime), along with an overhauled game system that pits 4-member teams against each other, KOF '99 is sure to raise excitement levels through the roof. The new battle begins here!\n\nAlong with K', six new characters and two Kyo Kusanagi clones appear as Edit Mode characters. This means players can choose their favorite from a whopping total of 30 characters!\n\nFOUR MAKES ONE FOR FEARSOME BATTLES\n3-on-3 is old hat. From now on, it's 4-on-4, buster. Each team consists of three contestants, along with the Striker (who specializes in Tag Team attacks and brings new possibilities to battle strategies). Push the B and C buttons simultaneously to summon the Striker at any time during a fight (up to five times in a single match), but don't go nuts! Using the Striker at the right time is the key to victory!\n\nINCREASE YOUR POWER GAUGE ENERGY\nIncreasing Power Gauge energy above a certain point lets players stockpile up to three separate Power Gauges. When gauges are sufficiently stockpiled, use them to activate Super Special Moves and awesome feats like the Guard Cancel Emergency Evasion and Guard Cancel Blow-Away Attack.\n\nSELECT YOUR POWER UP MODE\nUse up to three power gauges at once to enter the timed Power Up Mode! There are two types of Power Up Modes to select from by entering special button commands: Counter Mode (press A + B + C to use Super Special Moves whenever you want; can also link normal special moves for Super Cancellation Attacks) or Armor Mode (press B + C + D to increase your defensive power significantly; Super Special Moves cannot be used during this mode).",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/kof99.zip"
+          },
+          "added": 1686477039118
+        },
+        {
+          "type": "neogeo",
+          "title": "The King of Fighters 2000",
+          "longTitle": "The King of Fighters 2000 (NGM-2570) (NGH-2570)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20King%20of%20Fighters%202000%20(NGM-2570)%20(NGH-2570).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20King%20of%20Fighters%202000%20(NGM-2570)%20(NGH-2570).png",
+          "description": "The final King of Fighters game released by SNK in its original state, The King of Fighters 2000 expands on the story and gameplay presented in The King of Fighters '99. This year's tournament is sponsored by the Ikari Warriors in an attempt to discover more about the NESTS organization, and to derail the plans of potential NESTS agents K' and Maxima. Not everything is as straight-forward as it usually is, however, and even the Ikari Warriors themselves are at risk of being betrayed from within by the end of the tournament.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/kof2000.zip"
+          },
+          "added": 1686477039118
+        },
+        {
+          "type": "neogeo",
+          "title": "The King of Fighters 2001",
+          "longTitle": "The King of Fighters 2001 (NGM-262?)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20King%20of%20Fighters%202001%20(NGM-262_).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20King%20of%20Fighters%202001%20(NGM-262_).png",
+          "description": "In this eighth installment of the King of Fighters series, ten different teams once again battle it out in several countries to decide which team will be this year's King of Fighters. However, the NESTS organization is once again standing in the participant's way; they have deployed their own team of four fighters, lead by two individuals of high-rank within NESTS: a man claiming to be the original Zero and Igniz, the CEO of NESTS. The character roster has been updated yet again for this release in the series.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/kof2001.zip"
+          },
+          "added": 1686477039118
+        },
+        {
+          "type": "neogeo",
+          "title": "The King of Fighters 2002",
+          "longTitle": "The King of Fighters 2002 (NGM-2650)(NGH-2650)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20King%20of%20Fighters%202002%20(NGM-2650)(NGH-2650).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20King%20of%20Fighters%202002%20(NGM-2650)(NGH-2650).png",
+          "description": "The second plotless \"dream match\" in The King of Fighters series, this game sports 39 normal characters and 5 hidden characters, some of whom haven't appeared since KOF98. The King of Fighters 2002 also has five characters exclusive to the X-Box, the PS2 and/or Dreamcast systems: Shingo Yabuki, King, Geese Howard, \"Riot of the Blood\" Iori and Leopold Goenitz. Shingo and King are available on all the non-Neo Geo systems, while Geese and the rest are only available on the PS2 and X-Box platforms.\n\nThe gameplay system has also changed. The striker system and four-character teams found in the last three KOF releases have been totally removed. In their place are the old-school three man teams and the \"Advanced system\" from The King of Fighters '97 and The King of Fighters '98.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/kof2002.zip"
+          },
+          "added": 1686477039118
+        },
+        {
+          "type": "neogeo",
+          "title": "The King of Fighters 2003",
+          "longTitle": "The King of Fighters 2003 (NGM-2710)",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20King%20of%20Fighters%202003%20(NGM-2710).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20King%20of%20Fighters%202003%20(NGM-2710).png",
+          "description": "A new edition of the KOF series with 32 selectable fighters plus Evil Kusanagi, Chizuru and Maki Kagura, Adelheid Bernstein and the final boss Mukai.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/neo-geo-mvs-romset/kof2003.zip"
+          },
+          "added": 1686477039118
+        }
+      ]
+    },
+    {
+      "description": "The Neo Geo Pocket is a handheld console released in 1998 by the Japanese company SNK. It was considered a competitor to Nintendo's Game Boy , although it was designed to offer a more advanced gaming experience than its rival. The console featured a high-quality screen and a precise control system. It had an impressive library of games, including such iconic titles as King of Fighters, Metal Slug and Sonic the Hedgehog. The Neo Geo Pocket was not a great commercial success and was discontinued in 1999. However, the console remains the object of nostalgic affection among retro video game fans and is considered a cult console today.",
+      "title": "NGPC",
+      "longTitle": "Neo Geo Pocket",
+      "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/SNK.png?raw=true",
+      "backgroundPixelated": true,
+      "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Neo-Geo-Pocket.jpeg?raw=true",
+      "items": [
+        {
+          "props": {
+            "rom": "https://archive.org/download/NeoGeoPocket201808/ROMS.zip/Baseball%20Stars%20Color%20%28W%29%20%5Ba2%5D.ngc"
+          },
+          "type": "ngc",
+          "title": "Baseball Stars Color (W) [a2]",
+          "added": 1686478792059
+        },
+        {
+          "title": "Big Bang Pro Wrestling",
+          "longTitle": "Big Bang Pro Wrestling (Japan) (En,Ja)",
+          "type": "ngc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Snaps/output/Big%20Bang%20Pro%20Wrestling%20(Japan)%20(En%2CJa).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Titles/resized/Big%20Bang%20Pro%20Wrestling%20(Japan)%20(En%2CJa).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/NeoGeoPocket201808/ROMS.zip/Big%20Bang%20Pro%20Wrestling%20%28W%29%20%5B%21%5D.ngc"
+          },
+          "added": 1686478833562
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/NeoGeoPocket201808/ROMS.zip/Biomotor%20Unitron%20%28UE%29%20%5Ba1%5D.ngc"
+          },
+          "type": "ngc",
+          "title": "Biomotor Unitron (UE) [a1]",
+          "added": 1686478858499
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/NeoGeoPocket201808/ROMS.zip/Bust-A-Move%20Pocket%20%28UE%29.ngc"
+          },
+          "type": "ngc",
+          "title": "Bust-A-Move Pocket (UE)",
+          "added": 1686478890368
+        },
+        {
+          "title": "Cool Cool Jam",
+          "longTitle": "Cool Cool Jam (USA) (Proto)",
+          "type": "ngc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Snaps/output/Cool%20Cool%20Jam%20(USA)%20(Proto).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Titles/resized/Cool%20Cool%20Jam%20(USA)%20(Proto).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/NeoGeoPocket201808/ROMS.zip/Cool%20Cool%20Jam%20SAMPLE%20%28U%29.ngc"
+          },
+          "added": 1686478939633
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/NeoGeoPocket201808/ROMS.zip/Cotton%20-%20Fantastic%20Night%20Dreams%20%28As%29%20%5Bt1%5D.ngc"
+          },
+          "type": "ngc",
+          "title": "Cotton - Fantastic Night Dreams (As) [t1]",
+          "added": 1686479018081
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/NeoGeoPocket201808/ROMS.zip/Crush%20Roller%20%28W%29%20%5Ba2%5D.ngc"
+          },
+          "type": "ngc",
+          "title": "Crush Roller (W) [a2]",
+          "added": 1686479068348
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/NeoGeoPocket201808/ROMS.zip/Dark%20Arms%20-%20Beast%20Buster%201999%20%28W%29%20%5Ba2%5D.ngc"
+          },
+          "type": "ngc",
+          "title": "Dark Arms - Beast Buster 1999 (W) [a2]",
+          "added": 1686479110164
+        },
+        {
+          "title": "Evolution - Eternal Dungeons",
+          "longTitle": "Evolution - Eternal Dungeons (Europe)",
+          "type": "ngc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Snaps/output/Evolution%20-%20Eternal%20Dungeons%20(Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Titles/resized/Evolution%20-%20Eternal%20Dungeons%20(Europe).png",
+          "description": "A portable version of Evolution: The World of Sacred Device. Eternal Dungeon tells the story of the young explorer Mag Launcher and his quest for the fabled Evolutia, an item of immense power.\n\nThe basic premise of the game is to take quests in the town and then assemble your party and attempt to clear out the many dungeons in the game, grinding your characters and getting the loot and experience needed to advance the plot and buy items, equipment, and upgrades for your Cy-frame, a robotic attachment that enables Mag to enhance his combat abilities.\n\nAs expected for a portable version, the gameplay has been significantly downgraded from its original Dreamcast version. Town navigation is menu-driven and all graphics are now top-down 2D sprites, with all dungeons being pre-designed instead of randomly generated. Combat is turn-based using a menu system from which you select your actions for each party member (up to 3) and execute them, but otherwise remains unchanged.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/NeoGeoPocket201808/ROMS.zip/Evolution%20-%20Eternal%20Dungeons%20%28U%29.ngc"
+          },
+          "added": 1686479149299
+        }
+      ]
     }
   ],
   "longTitle": "Play with approximately 1000 retro games!",
-  "description": "With over 1,000 retro games to choose from, you're sure to find something you love !\n\nContents of this pack:\nAtari: 4  console\nSega: 3  console\nNintendo: 6 console\n= 13  console",
+  "description": "With over 1,000 retro games to choose from, you're sure to find something you love !\n\nContents of this pack:\nAtari: 4  console\nSega: 4  console\nNintendo: 6 console\nSNK : 2\n= 16  console",
   "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Welcome.jpeg?raw=true",
   "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/Welcome.png?raw=true",
   "backgroundPixelated": true,
   "props": {
-    "lnx_boot": "https://archive.org/download/OpenEmuBIOSPack/OpenEmu%20BIOS%20Pack.zip/lynxboot.img",
-    "atari5200_rom": "https://archive.org/download/OpenEmuBIOSPack/OpenEmu%20BIOS%20Pack.zip/5200.rom"
+    "lnx_boot": "https://archive.org/download/retropiebiosfilesconfiguredforeverysystem_20190904/Retropie%20Bios%20Files%20Configured%20for%20Every%20System.zip/Retropie%20Bios%20Files%20Configured%20for%20Every%20System%2FBIOS%2Flynxboot.img",
+    "atari5200_rom": "https://archive.org/download/retropiebiosfilesconfiguredforeverysystem_20190904/Retropie%20Bios%20Files%20Configured%20for%20Every%20System.zip/Retropie%20Bios%20Files%20Configured%20for%20Every%20System%2FBIOS%2F5200.rom",
+    "neogeo_bios": "https://archive.org/download/retropiebiosfilesconfiguredforeverysystem_20190904/Retropie%20Bios%20Files%20Configured%20for%20Every%20System.zip/Retropie%20Bios%20Files%20Configured%20for%20Every%20System%2FBIOS%2Ffba%2Fneogeo.zip"
   }
 }
