@@ -14597,10 +14597,471 @@
           "added": 1686479149299
         }
       ]
+    },
+    {
+      "title": "WS",
+      "longTitle": "Wonderswan",
+      "description": "The classic WonderSwan is a portable video game console developed by Bandai. It was launched in Japan in 1999 and was designed by Gunpei Yokoi, the creator of Nintendo's Game Boy. The console is available in two colors: white and black. It is powered by an AA battery and features a 2.7\" monochrome LCD screen. The classic WonderSwan is compatible with black & white and some color games. It also features a built-in speaker and headphone jack. The console is lightweight and easy to carry, making it a popular choice for gamers on the move. It was a great success in Japan, but has never been marketed outside that country. The classic WonderSwan has an impressive library of games, including popular titles such as Mr. Driller, Final Fantasy and Guilty Gear Petit 2.",
+      "items": [
+        {
+          "title": "Engacho! for WonderSwan",
+          "longTitle": "Engacho! for WonderSwan (Japan)",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/Engacho!%20for%20WonderSwan%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/Engacho!%20for%20WonderSwan%20(Japan).png",
+          "description": "Engacho is based on a popular Japanese children game. You play a little boy named Sunzuki, who wants to prove to his angry father that he is not a coward and can stand up against the terrible monsters of the Oops Five group. Those five guys are extremely ugly and can contaminate you with an awful disease the moment they touch you. So you should outsmart them and run away before they can catch you. The gameplay is turn-based. You enter a room with the Oops Five monsters, and move in different directions, trying to avoid collision. The catch is that each monster has his own movement style. One of them will always imitate Sunzuki and move into the same direction as he; another will, on the contrary, move into the opposite direction, etc. By planning ahead, you must be smart enough to make your moves correctly and make it to the exit before Oops Five get you. There are different modes in the game, such as training, in which you face just one monster of your choice and get used to his patterns; puzzle mode, which takes you through a series of rooms with different shapes and monsters; and battle mode, in which you are thrown into large rooms where all Oops Five members roam freely.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Engacho%21%20%28J%29%20%5BM%5D%5B%21%5D.ws"
+          },
+          "added": 1689865684386
+        },
+        {
+          "title": "From TV Animation One Piece - Mezase Kaizoku Ou!",
+          "longTitle": "From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/From%20TV%20Animation%20One%20Piece%20-%20Mezase%20Kaizoku%20Ou!%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/From%20TV%20Animation%20One%20Piece%20-%20Mezase%20Kaizoku%20Ou!%20(Japan).png",
+          "description": "From TV Animation One Piece: Mezase Kaizoku Ou! is an Adventure game, developed and published by Bandai, which was released in Japan in 2000.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/From%20TV%20Animation%20-%20One%20Piece%20-%20Mezase%20Kaizoku%20Ou%20%28J%29%20%5BM%5D.ws"
+          },
+          "added": 1689865684386
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/From%20TV%20Animation%20-%20One%20Piece%20-%20Mezase%20Kaizoku%20Ou%20%28J%29%20%5BM%5D%5Bf1%5D.ws"
+          },
+          "type": "ws",
+          "title": "From TV Animation - One Piece - Mezase Kaizoku Ou (J) [M][f1]",
+          "added": 1689865684386
+        },
+        {
+          "title": "Kaze no Klonoa - Moonlight Museum",
+          "longTitle": "Kaze no Klonoa - Moonlight Museum (Japan)",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/Kaze%20no%20Klonoa%20-%20Moonlight%20Museum%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/Kaze%20no%20Klonoa%20-%20Moonlight%20Museum%20(Japan).png",
+          "description": "In this game, you control a boy named Klonoa. One day he sees a dream in which he learns that somebody has stolen a fragment of the moon. He is told that the thieves are probably some painters who took the moon fragment into a museum. As Klonoa enters the music, he gets teleported into a mysterious world. Now he has to use his wit in order to overcome all the obstacles in this world and retrieve the moon fragment.\r\n\r\nKaze no Klonoa: Moonlight Museum is a platform game with an emphasis on puzzle-solving. The enemies you encounter can be inflated with the help of Klonoa's yo-yo, and carried around. You can throw them at other enemies, or use them to jump to higher ledges. In addition, there are various kinds of symbols you have to collect to open locked doors, teleporters, switches, time bombs, and other ingredients for puzzles.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Kaze%20no%20Klonoa%20-%20Moonlight%20Museum%20%28J%29%20%5BM%5D.ws"
+          },
+          "added": 1689865767738
+        },
+        {
+          "title": "Rockman & Forte - Mirai Kara no Chousensha",
+          "longTitle": "Rockman & Forte - Mirai Kara no Chousensha (Japan)",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/Rockman%20%26%20Forte%20-%20Mirai%20Kara%20no%20Chousensha%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/Rockman%20%26%20Forte%20-%20Mirai%20Kara%20no%20Chousensha%20(Japan).png",
+          "description": "Rockman & Forte: Mirai kara no ChÅsensha translated as Rockman & Forte: Challenger from the Future in English, is a sequel to Mega Man & Bass developed by Bandai in cooperation and under license by Capcom, released in 1999 for the Bandai WonderSwan. The",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Rockman%20%26%20Forte%20-%20Mirai%20Kara%20no%20Chousen%20Sha%20%28J%29%20%5BM%5D%5B%21%5D.ws"
+          },
+          "added": 1689866162567
+        },
+        {
+          "title": "GunPey",
+          "longTitle": "GunPey (Japan)",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/GunPey%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/GunPey%20(Japan).png",
+          "description": "Gunpey is a puzzle game set in the wild west. Your goal is to connect pieces of fuses to get one long fuse going across the board, making it explode and disappear. There are several game modes in Gunpey, such as the classical puzzle game modes \"Endless mode\", where you can either play until you mess up or timed, either for 2 or 5 minutes. \"Stage mode\", where you have to clear a certain amount of tiles before advancing to the next stage. \"Puzzle mode\", where you have a set amount of fuse pieces and you need to make them all go away in one explosion. And finally \"Vs. mode\", where you can face off against a friend.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/GunPey%20%28J%29%20%5BM%5D.ws"
+          },
+          "added": 1689866224308
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Dicing%20Knight%20Period%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "type": "wsc",
+          "title": "Dicing Knight Period (J) [!]",
+          "added": 1689866308255
+        },
+        {
+          "title": "SD Gundam - Emotional Jam",
+          "longTitle": "SD Gundam - Emotional Jam (Japan) (Rev 3)",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/SD%20Gundam%20-%20Emotional%20Jam%20(Japan)%20(Rev%203).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/SD%20Gundam%20-%20Emotional%20Jam%20(Japan)%20(Rev%203).png",
+          "description": "SD Gundam: Emotional Jam is a Strategy game, developed by Tom Create and published by Bandai, which was released in Japan in 1999.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/SD%20Gundam%20-%20Emotional%20Jam%20%28J%29%20%5BM%5D%5B%21%5D.ws"
+          },
+          "added": 1689874105411
+        },
+        {
+          "title": "SD Gundam G Generation - Gather Beat",
+          "longTitle": "SD Gundam G Generation - Gather Beat (Japan)",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/SD%20Gundam%20G%20Generation%20-%20Gather%20Beat%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/SD%20Gundam%20G%20Generation%20-%20Gather%20Beat%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/SD%20Gundam%20G%20Generation%20-%20Gather%20Beat%20%28J%29%20%5BM%5D.ws"
+          },
+          "added": 1689874105411
+        },
+        {
+          "title": "SD Gundam Gashapon Senki - Episode 1",
+          "longTitle": "SD Gundam Gashapon Senki - Episode 1 (Japan)",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/SD%20Gundam%20Gashapon%20Senki%20-%20Episode%201%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/SD%20Gundam%20Gashapon%20Senki%20-%20Episode%201%20(Japan).png",
+          "description": "SD Gundam: Gashapon Senki Episode 1 is a Strategy game which focuses on the Gundam anime franchise. It was developed by Graphic Research, published by Bandai, and was released in Japan in 1999.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/SD%20Gundam%20Gashapon%20Senki%20-%20Episode%201%20%28J%29%20%5BM%5D%5B%21%5D.ws"
+          },
+          "added": 1689874105411
+        },
+        {
+          "title": "Pocket Fighter",
+          "longTitle": "Pocket Fighter (Japan)",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/Pocket%20Fighter%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/Pocket%20Fighter%20(Japan).png",
+          "description": "Pocket Fighter is a crossover fighting game that takes characters from the Street Fighter, Darkstalkers, and Red Earth fighting series, and presents them in a cute shrunken chibi form with ridiculous moves and costumes. The games fights take place in various Capcom locations.\r\n\r\nAt the top of the screen is your, and your opponents, health bar. Below that is a meter showing how many gems you've collected. Gems are produced from a character when they are hit by a kick or a punch, these gems will then lie on the ground until someone picks them up. Filling up your gem gauge will increase your special attack meters on the bottom of the screen. Ideally one aims to achieve a special attack level of 9 by picking up gems, however, battle will often having you using these up before you reach that lofty number.\r\n\r\nThe main difference between the Sega Saturn and PlayStation version of Pocket Fighter is a card battle mode. \r\n\r\nIn the card battle mode you will be presented with a set of three to six cards to choose from to form an attack, after which you'll view the combat and get new cards to pick from until one player is K.O.'ed\r\n\r\nThe cards will have a attack power and a defense power. By combing cards you'll get an attack, defense, and counter value\r\nwhich determine an overall power value. The player who has selected the higher power value will attack that turn, unless your foe has picked a guard card, an evasion card, or a high enough counter value. Other cards include recovery cards and special move cards.\r\n\r\n\"Collectible Cards\", cards featuring various graphics of the game's characters, can be obtained by playing the games various modes, such as \"Arcade\", and traded via the Communication Cable\r\n\r\nThe game also featured an online high score board through the WonderGate.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Pocket%20Fighter%20%28J%29%20%5BM%5D.ws"
+          },
+          "added": 1689874316975
+        },
+        {
+          "title": "Makaimura for WonderSwan",
+          "longTitle": "Makaimura for WonderSwan (Japan)",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/Makaimura%20for%20WonderSwan%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/Makaimura%20for%20WonderSwan%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Makaimura%20%28J%29%20%5BM%5D.ws"
+          },
+          "added": 1689874549631
+        }
+      ],
+      "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Bandai-Wonderswan.jpg?raw=true",
+      "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/Bandai-Namco.jpg?raw=true",
+      "backgroundPixelated": true
+    },
+    {
+      "title": "WSC",
+      "items": [
+        {
+          "title": "Final Fantasy",
+          "longTitle": "Final Fantasy (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Final%20Fantasy%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Final%20Fantasy%20(Japan).png",
+          "description": "Hironobu Sakaguchi's Final Fantasy... the first of one of the longest role-playing game series known to mankind. Final Fantasy is the game for the NES console that started it all.\r\n\r\nThe world is veiled in darkness. Winds don't blow, the seas are stormy, and the earth rots. All people can hope for is that the ancient prophecy will be finally fulfilled. \"When the world is veiled in darkness, four warriors will come...\" And indeed, they come - the four characters you have previously chosen. Their first quest is to free a princess from the evil Garland, and then the real journey begins...\r\n\r\nFinal Fantasy is played with an adventuring party rather than with a single character. Before the game starts, the player chooses four characters from six different classes: Fighter, Thief, Black Belt, White Mage, Red Mage, and Black Mage. Which four classes the player chooses for his characters is entirely up to him. He also gives the characters names. \r\n\r\nIn the game, the party walks around in a top-down world, visits cities, caves, palaces and other places to buy equipment, rest and get hints and new quests, and fights baddies when they are encountered. Final Fantasy uses a turn-based combat system; the ATB (active-time battle) system from the later installments is not used. In battle, the player gives each character in order a command (attack a particular enemy, cast a spell, use an item, or try to run.) Then the characters and the enemies act in a random order. Attacked enemies and party members lose hit points, dying when they reach zero HP. When all the enemies are defeated, living party members receive experience, eventually gaining a level and improving their stats when enough experience is accumulated. Slain party members can be revived in towns for a price. \r\n\r\nSpells are bought in cities in special shops. The spells are divided into two categories - white magic and black magic. White Mages can only use white magic, Black Mages can only use black magic, and Red Mages can use both. Casting spells in battle uses up magic points, which, like hit points, can be restored by resting in inns.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Final%20Fantasy%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689866068510
+        },
+        {
+          "title": "Final Fantasy II",
+          "longTitle": "Final Fantasy II (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Final%20Fantasy%20II%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Final%20Fantasy%20II%20(Japan).png",
+          "description": "This is the fourth entry in the  Final Fantasy series. It was known as Final Fantasy II internationally, because the  second and third games were never released outside of Japan.\r\n\r\nThe military country of Baron is one of the strongest in the land, with a proud army and a majestic air force known as the Red Wings. But, while their armies are kind and loyal, the recent actions of the King are anything but. The young Captain of the Red Wings, Cecil, is ordered to steal a crystal from a village of innocent magicians, and when he questions the actions of his King, Cecil is immediately thrown out of the country and sent off to kill strange monsters. Little does he realize the price the King's actions will pay, and what the true secret of the crystals, and their powers, truly is...\r\n\r\nThis is the first Final Fantasy game that introduced the famous ATB (active-time battle) system: during the battles, you have a time indicator for each party member that tells you when this character is able to act. If it takes you too long to select a command for this character, the enemy will act without waiting for your turn. The game abandons the job system that was implemented in the first and the third game in favor of pre-set character classes (paladin, white mage, ninja, etc.) assigned to each party member.\r\n\r\nThe PlayStation version adds a new rendered intro and ending.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Final%20Fantasy%20II%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689866068510
+        },
+        {
+          "title": "Final Fantasy IV",
+          "longTitle": "Final Fantasy IV (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Final%20Fantasy%20IV%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Final%20Fantasy%20IV%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Final%20Fantasy%20IV%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689866068510
+        },
+        {
+          "title": "From TV Animation One Piece - Grand Battle Swan Colosseum",
+          "longTitle": "From TV Animation One Piece - Grand Battle Swan Colosseum (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/From%20TV%20Animation%20One%20Piece%20-%20Grand%20Battle%20Swan%20Colosseum%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/From%20TV%20Animation%20One%20Piece%20-%20Grand%20Battle%20Swan%20Colosseum%20(Japan).png",
+          "description": "A real high point in the WonderSwan One Piece series",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/One%20Piece%20-%20Grand%20Battle%20Swan%20Colloseum%20%28J%29.wsc"
+          },
+          "added": 1689866068510
+        },
+        {
+          "title": "From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso",
+          "longTitle": "From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/From%20TV%20Animation%20One%20Piece%20-%20Treasure%20Wars%202%20-%20Buggy%20Land%20e%20Youkoso%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/From%20TV%20Animation%20One%20Piece%20-%20Treasure%20Wars%202%20-%20Buggy%20Land%20e%20Youkoso%20(Japan).png",
+          "description": "That's not to say Treasure Wars 2 is any less enjoyable just little changed; still \"choose your character and att",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/From%20TV%20Animation%20-%20One%20Piece%20-%20Treasure%20Wars%202%20-%20Buggy%20Land%20e%20Youkoso%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689866068510
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Judgement%20Silversword%20-%20Rebirth%20Edition%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "type": "wsc",
+          "title": "Judgement Silversword - Rebirth Edition (J) [!]",
+          "added": 1689866068510
+        },
+        {
+          "title": "Mr. Driller",
+          "longTitle": "Mr. Driller (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Mr.%20Driller%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Mr.%20Driller%20(Japan).png",
+          "description": "Mr Driller's world has been covered with mysterious blocks. Armed with only a mighty drill, you'll have to dig your way down to safety before his air supply runs out!\r\n\r\nMr Driller is a real-time puzzle game that relies solely on quick-thinking and a bit of planning. Gameplay is a combination of Tetris and Boulder Dash: You have to drill down through multi-colored blocks to reach the bottom while avoiding the consequences of reckless drilling (blocks may fall on you and crush you).",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Mr.%20Driller%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689866068510
+        },
+        {
+          "title": "Guilty Gear Petit 2",
+          "longTitle": "Guilty Gear Petit 2 (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Guilty%20Gear%20Petit%202%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Guilty%20Gear%20Petit%202%20(Japan).png",
+          "description": "In 22th century, scientists found a way to create artificial beings whom they called \"gears\". These gears were very powerful, but did not have wills of their own, and were completely obedient to the humans. However, a gear named Justice was able to free himself from the control and led a rebellion against the humans. Since then, the humanity lived in fear that the gears will one day gain the power on the Earth. For that purpose, the Sacred Order of the Holy Knights organized fighting tournaments to find out who is strong enough to face the renegade gears.\r\n\r\n\"Guilty Gear Petit 2\" is very similar to its predecessor, having the same \"super-deformed\" graphical style, battle moves (including the tension system to accumulate power and combo attacks), as well as backgrounds for battles. Several new characters appear in \"Guilty Gear Petit 2\", such as Zato-1, the former head of the assassin guild, the pirate captain Johnny, the time traveler Axl Lou from the 20th century, the mysterious Faust, and others.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Guilty%20Gear%20Petit%202%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689866101678
+        },
+        {
+          "title": "Rockman EXE - N1 Battle",
+          "longTitle": "Rockman EXE - N1 Battle (Japan) (Rev 1)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Rockman%20EXE%20-%20N1%20Battle%20(Japan)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Rockman%20EXE%20-%20N1%20Battle%20(Japan)%20(Rev%201).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Rockman%20EXE%20N1%20Battle%20%28J%29.wsc"
+          },
+          "added": 1689866172134
+        },
+        {
+          "title": "GunPey EX",
+          "longTitle": "GunPey EX (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/GunPey%20EX%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/GunPey%20EX%20(Japan).png",
+          "description": "Direct sequel to the original Gunpey on the WonderSwan, Gunpey EX adds a number of new elements to the classic; most notably, color.\r\n\r\nIn addition to earning points for completing a line across the field you will now earn points if those lines are of a matching color. Previously only gray lines were possible now red, blue, and green lines appear.\r\n\r\nGunpey EX has the same modes as the previous game, except a story mode. Time Attack mode where one has to eliminate as many tiles as possible in two of five minutes. Endless mode give the player unlimited time to crank out whatever score they desire. Stage mode presents a set number of tiles to remove in a given time. Puzzle mode puts the player in the situation of having to remove a certain group of tiles, the player can change the color of the lines here when they swap their tiles positions.\r\n\r\nA link mode is available to play against another human with a WonderSwan and Gunpey EX. \r\n\r\nThis game could access the internet through a wireless phone and the WonderGate where it was able to interact with an online high score board.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/GunPey%20Ex%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689866230224
+        },
+        {
+          "title": "Namco Super Wars",
+          "longTitle": "Namco Super Wars (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Namco%20Super%20Wars%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Namco%20Super%20Wars%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Namco%20Super%20Wars%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689866370308
+        },
+        {
+          "title": "Naruto - Konoha Ninpouchou",
+          "longTitle": "Naruto - Konoha Ninpouchou (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Naruto%20-%20Konoha%20Ninpouchou%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Naruto%20-%20Konoha%20Ninpouchou%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Naruto%20%28J%29.wsc"
+          },
+          "added": 1689873933066
+        },
+        {
+          "title": "Rockman EXE - N1 Battle",
+          "longTitle": "Rockman EXE - N1 Battle (Japan) (Rev 1)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Rockman%20EXE%20-%20N1%20Battle%20(Japan)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Rockman%20EXE%20-%20N1%20Battle%20(Japan)%20(Rev%201).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Rockman%20EXE%20N1%20Battle%20%28J%29.wsc"
+          },
+          "added": 1689874035754
+        },
+        {
+          "title": "Rockman EXE WS",
+          "longTitle": "Rockman EXE WS (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Rockman%20EXE%20WS%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Rockman%20EXE%20WS%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Rockman%20EXE%20WS%20%28J%29.wsc"
+          },
+          "added": 1689874035754
+        },
+        {
+          "title": "SD Gundam - Operation U.C.",
+          "longTitle": "SD Gundam - Operation U.C. (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/SD%20Gundam%20-%20Operation%20U.C.%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/SD%20Gundam%20-%20Operation%20U.C.%20(Japan).png",
+          "description": "When you start playing the game and reach the main menu, you will have some things which you can cho",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/SD%20Gundam%20-%20Operation%20U.C.%20%28J%29.wsc"
+          },
+          "added": 1689874205031
+        },
+        {
+          "title": "SD Gundam Eiyuu Den - Kishi Densetsu",
+          "longTitle": "SD Gundam Eiyuu Den - Kishi Densetsu (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/SD%20Gundam%20Eiyuu%20Den%20-%20Kishi%20Densetsu%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/SD%20Gundam%20Eiyuu%20Den%20-%20Kishi%20Densetsu%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/SD%20Gundam%20Eiyuuden%20-%20Eiyuuden%20Kishi%20Densetsu%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689874205031
+        },
+        {
+          "title": "SD Gundam G Generation - Gather Beat 2",
+          "longTitle": "SD Gundam G Generation - Gather Beat 2 (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/SD%20Gundam%20G%20Generation%20-%20Gather%20Beat%202%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/SD%20Gundam%20G%20Generation%20-%20Gather%20Beat%202%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/SD%20Gundam%20G%20Generation%20-%20Gather%20Beat%202%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689874205031
+        },
+        {
+          "title": "SD Gundam G Generation - Mono-Eye Gundams",
+          "longTitle": "SD Gundam G Generation - Mono-Eye Gundams (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/SD%20Gundam%20G%20Generation%20-%20Mono-Eye%20Gundams%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/SD%20Gundam%20G%20Generation%20-%20Mono-Eye%20Gundams%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/SD%20Gundam%20G%20Generation%20-%20Mono-Eye%20Gundams%20%28J%29.wsc"
+          },
+          "added": 1689874205031
+        },
+        {
+          "title": "SD Gundam Gashapon Senki - Episode 1",
+          "longTitle": "SD Gundam Gashapon Senki - Episode 1 (Japan)",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/SD%20Gundam%20Gashapon%20Senki%20-%20Episode%201%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/SD%20Gundam%20Gashapon%20Senki%20-%20Episode%201%20(Japan).png",
+          "description": "SD Gundam: Gashapon Senki Episode 1 is a Strategy game which focuses on the Gundam anime franchise. It was developed by Graphic Research, published by Bandai, and was released in Japan in 1999.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/SD%20Gundam%20Gashapon%20Senki%20-%20Episode%201%20%28J%29%20%5BM%5D%5B%21%5D.ws"
+          },
+          "added": 1689874205031
+        },
+        {
+          "title": "Guilty Gear Petit",
+          "longTitle": "Guilty Gear Petit (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Guilty%20Gear%20Petit%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Guilty%20Gear%20Petit%20(Japan).png",
+          "description": "The game takes place in 22th century. Scientists developed a new technique that allowed them to merge the DNA of humans and animals, producing powerful creatures known as \"gears\". The characters of the game participate in a tournament, the winner of which would face a gear who went out of control and is threatening to lead a gear rebellion against the humans. The game allows you to play as familiar characters from Guilty Gear series, such as the main hero Sol Badguy, who has a certain connection to the gears, and his rival, the leader of the Holy Knights named Ky Kiske. It also introduces a new character, the nurse Fanny, who fights with a syringe and has a mysterious connection to the genius surgeon, and later serial murderer, Dr. Baldhead. \r\n\r\n\"Guilty Gear Petit\" is a 2D fighting game. The story mode lets you pick a character and take him/her through a series of fights, while in time attack mode you can choose your opponents freely. The graphics are done in \"super-deformed\" style. The game retains key ingredients of Guilty Gear gameplay, such as building tension in order to execute powerful attacks, combo moves, etc.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Guilty%20Gear%20Petit%20%28J%29.wsc"
+          },
+          "added": 1689874224298
+        },
+        {
+          "title": "Pocket no Naka no Doraemon",
+          "longTitle": "Pocket no Naka no Doraemon (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Pocket%20no%20Naka%20no%20Doraemon%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Pocket%20no%20Naka%20no%20Doraemon%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Pocket%20no%20Naka%20no%20Doraemon%20%28J%29.wsc"
+          },
+          "added": 1689874349746
+        },
+        {
+          "title": "Battle Spirit - Digimon Frontier",
+          "longTitle": "Battle Spirit - Digimon Frontier (Japan) (Rev 1)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Battle%20Spirit%20-%20Digimon%20Frontier%20(Japan)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Battle%20Spirit%20-%20Digimon%20Frontier%20(Japan)%20(Rev%201).png",
+          "description": "In 2001, an unknown digimon (digital monster) appeared. He was immensely powerful and could delete any other digimon by touching him. Very soon he gained control over the entire Digiworld. But some digimons organized a resistance group consisting of seven most venerable members. Now those digital monsters must test their powers in order to finally be able to defeat the unknown evil digimon.\r\n\r\nThis is a platform fighting game based on the Digimon manga/animé series. You can fight against computer AI or in two-player mode. There are seven digimons to choose as playable characters; all are popular digimon characters from the original series, each associated with a human tamer. The battles take place on a system of platform. You can freely move around, jump, and perform a variety of melee and long-ranged attacks. Oppoenents can also inflict status ailments on each other. In each location there are random events happening, which influence the performance of the combatants.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Battle%20Spirit%20Digimon%20Frontier%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689874490599
+        },
+        {
+          "title": "Digimon Tamers - Battle Spirit Ver. 1.5",
+          "longTitle": "Digimon Tamers - Battle Spirit Ver. 1.5 (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Digimon%20Tamers%20-%20Battle%20Spirit%20Ver.%201.5%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Digimon%20Tamers%20-%20Battle%20Spirit%20Ver.%201.5%20(Japan).png",
+          "description": "In 2001, an unknown digimon (digital monster) appeared. He was immensely powerful and could delete any other digimon by touching him. Very soon he gained control over the entire Digiworld. But some digimons organized a resistance group consisting of seven most venerable members. Now those digital monsters must test their powers in order to finally be able to defeat the unknown evil digimon.\r\n\r\nThis is a platform fighting game based on the Digimon manga/animé series. You can fight against computer AI or in two-player mode. There are seven digimons to choose as playable characters; all are popular digimon characters from the original series, each associated with a human tamer. The battles take place on a system of platform. You can freely move around, jump, and perform a variety of melee and long-ranged attacks. Oppoenents can also inflict status ailments on each other. In each location there are random events happening, which influence the performance of the combatants.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Digimon%20Tamers%20-%20Battle%20Spirit%20V1.5%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689874490599
+        },
+        {
+          "title": "Wonder Classic",
+          "longTitle": "Wonder Classic (Japan)",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Wonder%20Classic%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Wonder%20Classic%20(Japan).png",
+          "description": "Wonder Classic is a golfing game where you will use different characters with specific abilities to your advantage. For example the character, Reiko Nagase nullifies the effects of wind, most others have certain benefits to certain types of shot. There are two starting characters and twenty-two unlockable and downloadable characters.\r\n\r\nThe game consists of the following modes:\r\n\r\n1. Training: play whatever field you like as long as you like.\r\n\r\n2. Character Get: you'll challenge your way through ten golfers, after you beat them you'll be able to play as them elsewhere in the game\r\n\r\n3. Stroke: play against the score\r\n\r\n4. Match: play by hole, each time golfer gets a hole he will go \"1UP\" while his opponent will go \"1DOWN\". Whoever is \"UP\" in the end wins. If the \"DOWN\" player cannot win given the number of remaining holes then the game will end.\r\n\r\n5. Mini Battle: Driving Contest: a match contest where the golfers will only drive.\r\n\r\n6. Mini Battle: Near-Pin: a match contest that will involve only shots near the pin.\r\n\r\n7. Mini Course: you play on a 3-par 9 hole course, you may play against a computer if you so wish.\r\n\r\n8. Tour: 32 contestants enter the tour, who will win? You'll have to hone your Wonder Classic golfing skills to best this. Winning in tour mode will unlock new courses.\r\n\r\n9. Net Tour: this mode will allow you the download the best 32 Tour scores that have been uploaded via the WonderGate. And then play a tour against those people, not the real people but against their scores, in a tour. You can also upload you own scores to compare them online.\r\n\r\nThe gameplay of Wonder Classic includes the ability to use the Y-buttons to augment just how your club will come in contact with the ball, to subtlety alter its trajectory. You'll also have six \"Power Shots\" which will have to be carefully conserved in each match.\r\n\r\nUsing the WonderGate you could get new clubs as well as stat altering equipment, such as gloves. You also could get new characters and courses through the WonderGate as well. This feature also allowed you to see your score as part of a \"global\" ranking.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/WonderswanRomCollectionByGhostware/Wonder%20Classic%20%28J%29%20%5B%21%5D.wsc"
+          },
+          "added": 1689874581633
+        }
+      ],
+      "description": "The WonderSwan Color is a portable video game console developed by Bandai. It was released in December 2000 in Japan and was available in five colors: pearl blue, pearl pink, crystal black, crystal blue and crystal orange The console was compatible with the games of the original WonderSwan, but it had a color screen The WonderSwan Color was moderately successful, with 270,632 units sold in less than a month after its release It was followed by an improved version called SwanCrystal, which was released in July 2002 The WonderSwan Color was presented as a cheaper alternative to Nintendo's Game Boy Advance, but it was never marketed outside Japan",
+      "longTitle": "WonderSwan Color",
+      "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/Bandai-Namco.jpg?raw=true",
+      "backgroundPixelated": true,
+      "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Bandai-Wonderswan-Color.jpg?raw=true"
     }
   ],
   "longTitle": "Play with approximately 1000 retro games!",
-  "description": "With over 1,000 retro games to choose from, you're sure to find something you love !\n\nContents of this pack:\nAtari: 4  console\nSega: 4  console\nNintendo: 6 console\nSNK : 2\n= 16  console",
+  "description": "With over 1,000 retro games to choose from, you're sure to find something you love !\n\nContents of this pack:\nAtari : 4  console\nSega : 4  console\nNintendo : 6 console\nSNK : 2\nBandai : 2\n= 18  console !",
   "thumbnail": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Ico/Welcome.jpeg?raw=true",
   "background": "https://github.com/Psyko38/Rom-Pack-WebRcade/blob/main/Img/Bg/Welcome.png?raw=true",
   "backgroundPixelated": true,
